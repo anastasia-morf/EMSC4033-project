@@ -7,10 +7,8 @@
 In one to two sentences, explain the background, the broad goals of the project and what the specific outcomes will be.
 
 
-I have previously worked with Linked Paleo Data (LiPD) files, and performed exploratory data analysis of publicity available paleoclimate records to construct a database for Australian paleoclimate records. The LiPD framework is standardized format for paleodata files, but it is not very accessible for new python users. For this project, I will construct a notebook where users can filter (e.g. spatially, temporally, types of proxy system) and assess records (e.g. time series within a particular temporal window) and metadata (e.g. publication information) from LiPD files/ databases easily. This will be useful to users who are not familiar with the LiPD format, or want to quickly access data from databases without having to learn how to use Pyleoclim/GeochronR.
+ The LiPD framework is standardized format for paleodata files, but it is not very accessible for new python users. For this project, I will construct a notebook where users can filter (e.g. spatially, temporally, types of proxy system) and assess records (e.g. time series within a particular temporal window) and metadata (e.g. publication information) from LiPD files/ databases easily. This will be useful to users who are not familiar with the LiPD format, or want to quickly access data from databases without having to learn how to use Pyleoclim/GeochronR.
 
-
-**Example:** _(this is based on the seismic monitoring dashboard that Louis showed). Seismic stations can be used to monitor human noise over the course of the day. Some seismometers stream data live to a server and so this processing can be done in near-real time. In this project I plan to build an online dashboard which processes the data once a day and uploads the results to github as 1) raw data, 2) an image that can be embedded in websites, 3) an updating csv table in github. I also plan to use the github "actions" engine to provide all the necessary processing power._
 
 ## Goals
 
@@ -24,8 +22,6 @@ My project will consist of three tutorial notebooks of increasing complexity. Th
 3) Teaching more advanced utilities
     - Data preparation for analysis (e.g. PCA)
 
-
-(Write things that you can assess whether they have been accomplished. For example, a goal like “improve visualisation of ocean output” is vague... But a goal that reads “implement functionality to plot streamlines of horizontal velocities in various slices from 3D ocean output” is specific enough.)
 
 ## Background and Innovation  
 
