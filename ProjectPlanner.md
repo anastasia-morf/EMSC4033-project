@@ -24,10 +24,6 @@ My project will consist of three tutorial notebooks of increasing complexity. Th
 3) Teaching more advanced utilities
     a) Data preparation for analysis (e.g. PCA)
 
-Convert Excel files to LiPD files (Python only)
-Convert NOAA files to/from LiPD files (Python only)
-Update LiPD publication data through DOI.org (Python only)
-Validate LiPD files through lipd.net API (Python only)
 
 (Write things that you can assess whether they have been accomplished. For example, a goal like “improve visualisation of ocean output” is vague... But a goal that reads “implement functionality to plot streamlines of horizontal velocities in various slices from 3D ocean output” is specific enough.)
 
