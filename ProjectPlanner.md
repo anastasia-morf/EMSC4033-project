@@ -1,6 +1,6 @@
 # EMSC4033 project plan template
 
-## Project title
+## Output utilities for LiPD files in Python
 
 ## Executive summary
 
@@ -15,9 +15,19 @@ I have previously worked with Linked Paleo Data (LiPD) files, and performed expl
 ## Goals
 
 My project will consist of three tutorial notebooks of increasing complexity. These will achieve the goals of:
-- Teaching a user how to 
-- Goal 2
-- ...
+1) Teaching a user how to install LiPD and relevant utilities & set up a new environment 
+2) Teaching a user how to access infrormation from LiPD files through a generalised plotter notebook
+    a) reading LiPD files 
+    b) Convert LiPD files to Excel
+    c) mapping the data 
+    d) filtering areas / variables / time series / temporal window 
+3) Teaching more advanced utilities
+    a) Data preparation for analysis (e.g. PCA)
+
+Convert Excel files to LiPD files (Python only)
+Convert NOAA files to/from LiPD files (Python only)
+Update LiPD publication data through DOI.org (Python only)
+Validate LiPD files through lipd.net API (Python only)
 
 (Write things that you can assess whether they have been accomplished. For example, a goal like “improve visualisation of ocean output” is vague... But a goal that reads “implement functionality to plot streamlines of horizontal velocities in various slices from 3D ocean output” is specific enough.)
 
