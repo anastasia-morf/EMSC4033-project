@@ -7,8 +7,8 @@
 In one to two sentences, explain the background, the broad goals of the project and what the specific outcomes will be.
 
 
- The LiPD framework is standardized format for paleodata files, but it is not very accessible for new python users. For this project, I will construct a notebook where users can filter (e.g. spatially, temporally, types of proxy system) and assess records (e.g. time series within a particular temporal window) and metadata (e.g. publication information) from LiPD files/ databases easily. This will be useful to users who are not familiar with the LiPD format, or want to quickly access data from databases without having to learn how to use Pyleoclim/GeochronR.
-
+ The LiPD framework is standardized format for paleodata files, but it is not very accessible for new python users. For this project, I will construct a notebook where users can filter (e.g. spatially, temporally, types of proxy system) and assess records (e.g. time series within a particular temporal window) and metadata (e.g. publication information) from LiPD files/ databases easily. This will be useful to users who are not familiar with the LiPD format, or want to quickly access data from databases without having to learn how to use data analysis packages such as Pyleoclim/GeochronR.
+ 
 
 ## Goals
 
