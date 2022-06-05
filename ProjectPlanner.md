@@ -29,9 +29,7 @@ This package is still in development and there are only two relevant tutorials i
 
 But these make use of additional data analysis packages (e.g. Pyleoclim, Geochron), that require some dependencies unavailable to Windows.
 
-My project will build on this existing documentation (more information can be found on the official [LiPD Utilities’s documentation](https://nickmckay.github.io/LiPD-utilities/python/index.html) and [Linked Earth Wiki](http://wiki.linked.earth/Using_LiPD_files)). 
-
-My aim for this project is to provide a simpler, more straight-foward documentation though a generalised plotter notebook that can help teach new users how to install and use the `LiPD` package, which can serve as a motivation for more scientists to make use of this package. 
+My project will build on this existing documentation (more information can be found on the official [LiPD Utilities’s documentation](https://nickmckay.github.io/LiPD-utilities/python/index.html) and [Linked Earth Wiki](http://wiki.linked.earth/Using_LiPD_files)) and aim to provide a simpler, more straight-foward documentation though a generalised plotter notebook that can help teach new users how to install and use the `LiPD` package, which can serve as a motivation for more scientists to make use of this package. 
 
 ## Resources & Timeline
 
