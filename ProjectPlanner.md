@@ -26,7 +26,8 @@ Paleoclimatology is a highly collaborative field that relies on online databases
 This package is still in development and there are only two relevant tutorials i could find: 
 - https://github.com/nickmckay/LiPD-utilities/blob/master/Examples/Bchron.ipynb
 - https://github.com/nickmckay/LiPD-utilities/blob/master/Examples/MD02-2515.McClymont.2012.Spectral.ipynb
-But these are based on analysis, are hard to navigate for first time users and make use of additional data analysis packages (e.g. Pyleoclim, Geochron), that require some dependencies unavailable to Windows.
+
+But these make use of additional data analysis packages (e.g. Pyleoclim, Geochron), that require some dependencies unavailable to Windows.
 
 My project will build on this existing documentation (more information can be found on the official [LiPD Utilities’s documentation](https://nickmckay.github.io/LiPD-utilities/python/index.html) and [Linked Earth Wiki](http://wiki.linked.earth/Using_LiPD_files)). 
 
