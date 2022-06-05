@@ -25,7 +25,7 @@ Paleoclimatology is a highly collaborative field that relies on online databases
 
 This package is still in development, and although there are some tutorials available, they are hard to navigate for inexperiened users and make use of additional data analysis packages (e.g. pyleoclim), that require some dependencies unavailable to Windows. My project will build on this existing documentation (more information can be found on the official [LiPD Utilities’s documentation](https://nickmckay.github.io/LiPD-utilities/python/index.html) and [Linked Earth Wiki](http://wiki.linked.earth/Using_LiPD_files)). 
 
-My aim for this project is to provide a simpler, more straight-foward documentation, which can serve as a motivation for more scientists to make use of this package. This project aims to provide a generalised notebook that can help teach new users how to use the `LiPD` package. 
+My aim for this project is to provide a simpler, more straight-foward documentation, which can serve as a motivation for more scientists to make use of this package though a generalised plotter notebook that can help teach new users how to install and use the `LiPD` package. 
 
 ## Resources & Timeline
 
