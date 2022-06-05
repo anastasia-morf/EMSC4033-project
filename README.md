@@ -5,9 +5,14 @@ Paleoclimatology is a highly collaborative field that relies on online databases
 
 `LiPD` (Linked Paleo Data) is a convenient tool that provides a standardized format for storing and exchanging paleoclimate data, enabling quick querying and extraction. But there are some tricks to know before we can use it.
 
-The set of modules contained in this repository will give you and introduction to Python utilities for LiPDs. 
+The purpose of this Git repository is to provide a set of modules that can be used as an introduction to Python utilities for LiPDs. By following these modules, you will learn (1) how to create a new environemnt and install `LiPD` and (2) how to use the `LiPD` package to access and visualise data contained in large datasets.
 
 ## Guide to the Repository 	
+
+To get started, you will first need to copy or "fork" the repository, which will allow you to freely experiment and modify the notebooks without affecting the original code. 
+
+Everything that you need next is contained within these files: 
+
 #### Jupyter Notebooks 
 There are notebooks two contained in the repository: 
 1. Installation.ipynb - Provides instructions to creating a new environment and installing `LiPD`.
@@ -22,4 +27,4 @@ The project plan - contains more information about this project (executive summa
 #### ProjectReport.md 
 The project report contains the user instructions, list of dependencies, a description of the testing code, as well as limitations and future improvements. 
 
-
+Hope you find this useful nad please contact me if you have any suggestions for improvements :) 
