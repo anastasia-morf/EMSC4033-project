@@ -37,11 +37,14 @@ My aim for this project is to provide a simpler, more straight-foward documentat
 
 ## Testing, validation, documentation
 
-I will be conducting tests using both the `assert` function and the validation tests avaiable in the `LiPD` package.
+I will be conducting tests using both the `assert` function and the validation tests available within the `LiPD` package itself. These validation tests will be for the files themselves, whereas my tests will be for the functions I create. I will also be using some prebuilt functions from the `LiPD` package, but these work and there is no need to test them. 
+
+Using the assert statement, I could test for: 
+- whether the correct data has been loaded 
+- whether specific variables exist within the LiPDs
+- whether the maps return...
 
 
 
-**Note:** You need to think about how you will know your code is correct and achieves the goals that are set out above (specific tests that can be implemented automatically using, for example, the `assert` statement in python.)  It can be really helpful if those tests are also part of the documentation so that when you tell people how to do something with the code, the example you give is specifically targetted by some test code.
 
-_Provide some specific tests with values that you can imagine `assert`ing_
 
