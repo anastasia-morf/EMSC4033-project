@@ -23,9 +23,14 @@ I will create two Jupyter notebooks, which will achieve the goals of:
 
 Paleoclimatology is a highly collaborative field that relies on online databases for data sharing. However, accessing, analyzing, modelling and visualizing paleoclimate observations can be extremely time consuming, especially when dealing with large data volumes. To deal with this issue, the standardized LiPD (short for Linked PaleoData) framework was built for the quick and easy exchange of paleoclimate data amongst scientists. The package allows users to convert existing data into LiPD files, as well as analyze and manipulate LiPD data.
 
-This package is still in development, and although there are some tutorials available, they are hard to navigate for inexperiened users and make use of additional data analysis packages (e.g. pyleoclim), that require some dependencies unavailable to Windows. My project will build on this existing documentation (more information can be found on the official [LiPD Utilities’s documentation](https://nickmckay.github.io/LiPD-utilities/python/index.html) and [Linked Earth Wiki](http://wiki.linked.earth/Using_LiPD_files)). 
+This package is still in development and there are only two relevant tutorials i could find: 
+- https://github.com/nickmckay/LiPD-utilities/blob/master/Examples/Bchron.ipynb
+- https://github.com/nickmckay/LiPD-utilities/blob/master/Examples/MD02-2515.McClymont.2012.Spectral.ipynb
+But these are based on analysis, are hard to navigate for first time users and make use of additional data analysis packages (e.g. Pyleoclim, Geochron), that require some dependencies unavailable to Windows.
 
-My aim for this project is to provide a simpler, more straight-foward documentation, which can serve as a motivation for more scientists to make use of this package though a generalised plotter notebook that can help teach new users how to install and use the `LiPD` package. 
+My project will build on this existing documentation (more information can be found on the official [LiPD Utilities’s documentation](https://nickmckay.github.io/LiPD-utilities/python/index.html) and [Linked Earth Wiki](http://wiki.linked.earth/Using_LiPD_files)). 
+
+My aim for this project is to provide a simpler, more straight-foward documentation though a generalised plotter notebook that can help teach new users how to install and use the `LiPD` package, which can serve as a motivation for more scientists to make use of this package. 
 
 ## Resources & Timeline
 
@@ -38,7 +43,8 @@ Resources
 - I will be downloading LiPD files from [NOAA](https://www.ncei.noaa.gov/access/paleo-search/), [LinkedEarth Wiki](http://wiki.linked.earth/Main_Page) and [PANGAEA](https://www.pangaea.de/) and journal publications to test my notebooks.
 - I will be in contact with my former supervisor Georgina Falster, who introduced me to this package and has helped me learn how to use it if I have any problems. 
 - I will be using a GitHub repository to store my code.
-- This will be a one off project and I do not intend to continue in the future.
+
+This will be a one off project and I do not intend to continue in the future.
 
 
 ## Testing, validation, documentation
