@@ -10,28 +10,28 @@ The LiPD framework is standardized format for paleoclimate files, but can be dif
 
 ## Goals
 
-I will create two hupyter notebooks, which will achieve the goals of:
+I will create two Jupyter notebooks, which will achieve the goals of:
 1) Teaching a user how to set up a new environment, install LiPD and the relevant utilities.
 2) Provide a template for users to access infrormation from LiPD files through a generalised plotter notebook. This will involve: 
     - reading LiPD files 
     - Convert LiPD files to Excel
-    - mapping the data 
+    - displaying the data on spatial and temporal scales and 
     - filtering variables.
 
 
 ## Background and Innovation  
 
-LiPD is short for Linked PaleoData - a standardized framework built for the quick and easy exchange of paleoclimate data amongst scientists. The package allows users to convert existing data into LiPD files, as well as analyze and manipulate LiPD data.
+Paleoclimatology is a highly collaborative field that relies on online databases for data sharing. However, accessing, analyzing, modelling and visualizing paleoclimate observations can be extremely time consuming, especially when dealing with large data volumes. To deal with this issue, the standardized LiPD (short for Linked PaleoData) framework was built for the quick and easy exchange of paleoclimate data amongst scientists. The package allows users to convert existing data into LiPD files, as well as analyze and manipulate LiPD data.
 
-My project will build on the existing documentation for the `LiPD` package. More information can be found on the official [LiPD Utilities’s documentation](https://nickmckay.github.io/LiPD-utilities/python/index.html) and [Linked Earth Wiki](http://wiki.linked.earth/Using_LiPD_files). 
+This package is still in development, and although there are some tutorials available, they are hard to navigate for inexperiened users and make use of additional data analysis packages (e.g. pyleoclim), that require some dependencies unavailable to Windows. My project will build on this existing documentation (more information can be found on the official [LiPD Utilities’s documentation](https://nickmckay.github.io/LiPD-utilities/python/index.html) and [Linked Earth Wiki](http://wiki.linked.earth/Using_LiPD_files)). 
 
-This package is still in development, and although there are some tutorials available, they are hard to navigate for inexperiened users and make use of additional data analysis packages (e.g. pyleoclim), that require some dependencies unavailable to Windows. This makes it clear -  there is a need for simpler, more straight-foward documentation, which can serve as a motivation for more scientists to make use of this package. This project aims to provide a generalised notebook that can help teach new users how to use the `LiPD` package. 
+My aim for this project is to provide a simpler, more straight-foward documentation, which can serve as a motivation for more scientists to make use of this package. This project aims to provide a generalised notebook that can help teach new users how to use the `LiPD` package. 
 
 ## Resources & Timeline
 
 - I'll be using the existing package `LiPD` and it's existing documentation and [module contents](http://nickmckay.github.io/LiPD-utilities/python/source/lipd.html#module-lipd) to help me write my code. I will build extra functionalities to use with this package. 
-- I will be downloading LiPD files from [NOAA](https://www.ncei.noaa.gov/access/paleo-search/), [LinkedEarth Wiki](http://wiki.linked.earth/Main_Page) and [PANGAEA](https://www.pangaea.de/) and journal publications.
-- I will be in contact with my former supervisor Georgina Falster, who introduced me to this package and has helped me learn how to use it. 
+- I will be downloading LiPD files from [NOAA](https://www.ncei.noaa.gov/access/paleo-search/), [LinkedEarth Wiki](http://wiki.linked.earth/Main_Page) and [PANGAEA](https://www.pangaea.de/) and journal publications to test my notebooks.
+- I will be in contact with my former supervisor Georgina Falster, who introduced me to this package and has helped me learn how to use it if I have any problems. 
 - This will be a one off project and I do not intend to continue in the future.
 
 
