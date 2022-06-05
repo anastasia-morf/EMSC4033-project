@@ -9,7 +9,7 @@ The set of modules contained in this repository will give you and introduction t
 
 ## Guide to the Repository 	
 #### Jupyter Notebooks 
-There are notebooks contained in the reposity: 
+There are notebooks two contained in the repository: 
 1. Installation.ipynb - Provides instructions to creating a new environment and installing `LiPD`.
 2. GraphMaker.ipynb - Generalised plotter notebooks that teaches `LiPD` functionalities.
 
