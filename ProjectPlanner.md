@@ -29,9 +29,15 @@ My aim for this project is to provide a simpler, more straight-foward documentat
 
 ## Resources & Timeline
 
-- I'll be using the existing package `LiPD` and it's existing documentation and [module contents](http://nickmckay.github.io/LiPD-utilities/python/source/lipd.html#module-lipd) to help me write my code. I will build extra functionalities to use with this package. 
+Timeline
+- I'll be using the existing package `LiPD` and it's existing documentation and [module contents](http://nickmckay.github.io/LiPD-utilities/python/source/lipd.html#module-lipd), as well as my previous experience with the package to help me write my code. I will build extra functionalities to use with this package. This is expected to take me about a week to do. 
+- Writing the testing code will take me about 1 day.
+- Writing the supporting documentation, docstrings, and reports might take me about 3 days.
+
+Resources
 - I will be downloading LiPD files from [NOAA](https://www.ncei.noaa.gov/access/paleo-search/), [LinkedEarth Wiki](http://wiki.linked.earth/Main_Page) and [PANGAEA](https://www.pangaea.de/) and journal publications to test my notebooks.
 - I will be in contact with my former supervisor Georgina Falster, who introduced me to this package and has helped me learn how to use it if I have any problems. 
+- I will be using a GitHub repository to store my code.
 - This will be a one off project and I do not intend to continue in the future.
 
 
