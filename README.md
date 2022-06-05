@@ -27,4 +27,4 @@ The project plan - contains more information about this project (executive summa
 #### ProjectReport.md 
 The project report contains the user instructions, list of dependencies, a description of the testing code, as well as limitations and future improvements. 
 
-Hope you find this useful nad please contact me if you have any suggestions for improvements :) 
+Hope you find this useful and please contact me if you have any suggestions for improvements :) 
