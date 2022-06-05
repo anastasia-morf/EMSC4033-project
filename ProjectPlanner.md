@@ -1,6 +1,6 @@
-# EMSC4033 project plan template
+# EMSC4033 Project Plan 
 
-## Introduction to Python utilities for LiPD files
+### Introduction to Python utilities for LiPD files
 
 ## Executive summary
 
