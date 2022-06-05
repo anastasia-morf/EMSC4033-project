@@ -5,7 +5,7 @@
 ## Executive summary
 
 
-The LiPD framework is standardized format for paleoclimate files, but can be difficult to navigate if you are not an experienced user. For this project, I will construct a generalised plotter notebook that can be used as a template for users to filter (e.g. spatially, temporally, types of proxy system) and assess records (e.g. time series within a particular temporal window) and metadata (e.g. publication information) from LiPD files/ databases as needed. This will be useful to users who are not familiar with the LiPD format, or want to quickly access data from databases without having to learn how to use data analysis packages such as Pyleoclim/GeochronR.
+The LiPD framework is standardized format for paleoclimate files, but can be difficult to navigate if you are not an experienced user. For this project, I will construct a generalised plotter notebook that can be used as a template for users to filter (e.g. spatially, temporally, types of proxy system) and assess records (e.g. time series within a particular temporal window) from LiPD files/ databases as needed. This will be useful to users who are not familiar with the LiPD format, or want to quickly access data from databases without having to learn how to use data analysis packages such as Pyleoclim/GeochronR.
  
 
 ## Goals
