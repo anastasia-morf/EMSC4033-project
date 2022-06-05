@@ -34,11 +34,11 @@ The following dependencies are used, loaded in dependencies.py:
 
 
 ### Describe testing	
-
 There were ... tests written. These are available in RunTests.py
-- 
-- 
--
+- test 1
+- test 2
+- test 3 
+
 
 ### Limitations / Future Improvments	
 
