@@ -27,21 +27,21 @@ The project report
 
 #### List of dependencies	
 The following dependencies are used, loaded in dependencies.py:
-- lipd: Reading and manipulating LiPD files
-- matplotlib
-  - matplotlib.pyplot: For figures and graphs 
-    - figure: Creating figures 
-  - matplotlib.ticker: Removing the y axis values on the temporal plot  
-  - matplotlib.patches: 2D artists 
-- numpy: numerical processing 
-- csv: Converting LiPD data into CSV format
-- pandas: Data analysis
-- cartopy
-  - cartopy.crs: Changing the map projection
-  - cartopy.feature: Adding land features to map 
-- sys: system functionalities (removing print() functionality)
-- os: directory functionalities (removing print() functionality)
-- warnings: raise warnings while program runs
+- **lipd**: Reading and manipulating LiPD files
+- **matplotlib**
+  - **matplotlib.pyplot**: For figures and graphs 
+    - **figure**: Creating figures 
+  - **matplotlib.ticker**: Removing the y axis values on the temporal plot  
+  - **matplotlib.patches**: 2D artists 
+- **numpy**: numerical processing 
+- **csv**: Converting LiPD data into CSV format
+- **pandas**: Data analysis
+- **cartopy**
+  - **cartopy.crs**: Changing the map projection
+  - **cartopy.feature**: Adding land features to map 
+- **sys**: system functionalities (removing print() functionality)
+- **os**: directory functionalities (removing print() functionality)
+- **warnings**: raise warnings while program runs
 
 
 
