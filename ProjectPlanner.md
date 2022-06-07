@@ -49,7 +49,7 @@ This will be a one off project and I do not intend to continue in the future.
 
 ## Testing, validation, documentation
 
-I will be conducting tests using both the `assert` function and the validation tests available within the `LiPD` package itself. These validation tests will be for the files themselves, whereas my tests will be for the functions I create. I will also be using some prebuilt functions from the `LiPD` package, but these have been tested in the official documentation and so there is no need to do additional work.
+I will be conducting tests using the `pytest` and the `assert` function for the functions I create. I will also be using some prebuilt functions from the `LiPD` package, but these have been tested in the official documentation and so there is no need to do additional work.
 
 Using the assert statement, I will test for: 
 - whether the correct data has been loaded 
@@ -57,9 +57,8 @@ Using the assert statement, I will test for:
 - whether the plots return the correct variables
 - whether a specific LiPD file has been correctly loaded 
 - whether the correct maps return
-- whether the correct limits have been set for the temporal graph
 
-I will also make sure that I have exception handling as part of the documentation - this will test the LiPD files as the user uses the notebook and find the best solutions. For example, these can be used while plotting and mapping (choosing the best variables available) and summarizing the data into tables.
+I will also make sure that I have exception handling as part of the documentation - this will test the LiPD files as the user uses the notebook and find the best solutions. For example, these can be used while plotting and mapping (choosing the best variables available and whether the correct limits have been set) and summarizing the data into tables.
 
 
 
