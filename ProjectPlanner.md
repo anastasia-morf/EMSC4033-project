@@ -40,6 +40,7 @@ Timeline
 
 Resources
 - I will be downloading LiPD files from [NOAA](https://www.ncei.noaa.gov/access/paleo-search/), [LinkedEarth Wiki](http://wiki.linked.earth/Main_Page) and [PANGAEA](https://www.pangaea.de/) and journal publications to test my notebooks.
+- I will be using and downloading the `LiPD` package through `pyleoclim` - found that this works best.
 - I will be in contact with my former supervisor Georgina Falster, who introduced me to this package and has helped me learn how to use it if I have any problems. 
 - I will be using a GitHub repository to store my code.
 
@@ -54,6 +55,9 @@ Using the assert statement, I will test for:
 - whether the correct data has been loaded 
 - whether specific variables exist within the LiPDs
 - whether the plots return the correct variables
+- whether a specific LiPD file has been correctly loaded 
+- whether the correct maps return
+- whether the correct limits have been set for the temporal graph
 
 
 
