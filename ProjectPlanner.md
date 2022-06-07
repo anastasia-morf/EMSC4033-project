@@ -59,7 +59,7 @@ Using the assert statement, I will test for:
 - whether the correct maps return
 - whether the correct limits have been set for the temporal graph
 
-
+I will also make sure that I have exception handling as part of the documentation - this will test the LiPD files as the user uses the notebook and find the best solutions. For example, these can be used while plotting and mapping (choosing the best variables available) and summarizing the data into tables.
 
 
 
