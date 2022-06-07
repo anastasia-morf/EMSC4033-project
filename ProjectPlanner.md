@@ -29,7 +29,7 @@ This package is still in development and there are only two relevant tutorials i
 
 But these make use of additional data analysis packages (e.g. Pyleoclim, Geochron), that require some dependencies unavailable to Windows.
 
-My project will build on this existing documentation (more information can be found on the official [LiPD Utilities’s documentation](https://nickmckay.github.io/LiPD-utilities/python/index.html) and [Linked Earth Wiki](http://wiki.linked.earth/Using_LiPD_files)) and aim to provide a simpler, more straight-foward documentation though a generalised plotter notebook that can help teach new users how to install and use the `LiPD` package, which can serve as a motivation for more scientists to make use of this package. 
+My project will build on this existing documentation (more information can be found on the official [LiPD Utilities’s documentation](https://nickmckay.github.io/LiPD-utilities/python/index.html) and [Linked Earth Wiki](http://wiki.linked.earth/Using_LiPD_files)) and aim to provide a simpler, more straight-foward documentation though a generalised plotter notebook that can help teach new users how to install the `LiPD` package and provide a template for easy data visualisation, which can serve as a motivation for more scientists to make use of this package. 
 
 ## Resources & Timeline
 
@@ -48,12 +48,12 @@ This will be a one off project and I do not intend to continue in the future.
 
 ## Testing, validation, documentation
 
-I will be conducting tests using both the `assert` function and the validation tests available within the `LiPD` package itself. These validation tests will be for the files themselves, whereas my tests will be for the functions I create. I will also be using some prebuilt functions from the `LiPD` package, but these work and there is no need to test them. 
+I will be conducting tests using both the `assert` function and the validation tests available within the `LiPD` package itself. These validation tests will be for the files themselves, whereas my tests will be for the functions I create. I will also be using some prebuilt functions from the `LiPD` package, but these have been tested in the official documentation and so there is no need to do additional work.
 
-Using the assert statement, I could test for: 
+Using the assert statement, I will test for: 
 - whether the correct data has been loaded 
 - whether specific variables exist within the LiPDs
-- whether the maps return...
+- whether the plots return the correct variables
 
 
 
