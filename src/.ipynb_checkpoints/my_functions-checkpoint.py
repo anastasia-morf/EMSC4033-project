@@ -17,11 +17,9 @@ Additionally, docstrings are formatted in the following way:
 Description of the function 
 
 Parameters
-----------
      The variables listed inside the parentheses in the function definition
 
 Returns
--------
     This is a description of what is returned.
     
 """
@@ -40,7 +38,7 @@ class HiddenPrints:
         sys.stdout = self._original_stdout
     
 
-def make_plot(data):
+def make_plots(data, ts):
     """ This function contains the code needed to graph the time series contained in a LiPD file 
     Parameters: 
     - data (dict): the LiPD file data
@@ -48,39 +46,46 @@ def make_plot(data):
     Returns
     - plt.show(): The plot   
     """
-    #Define variables
-    year = data['year'] 
-    values = np.sort(data['paleoData_values'])
+#Define variables
+    index = 1 
+    figure(figsize=(10, 10))
+    for i in ts:              
+            plt.subplot(len(ts),1,index)
+            # x_axis = i['year']
+            y_axis = np.sort(i['paleoData_values'])
+            # x_label = i['yearUnits']
+            plt.title("Name: "+i['dataSetName']+", archive: "+i['archiveType'])
+            plt.ylabel(i['paleoData_variableName'])
+            # plt.xlabel(x_label)
+            index += 1
 
-    #Make the figure
-    plt.plot(year,values)
-    plt.title("Name: "+data['dataSetName']+", archive: "+data['archiveType'])
-    plt.xlabel(data['yearUnits']) 
-    plt.ylabel(data['paleoData_variableName'])
-    #plt.gca().invert_xaxis() # Here, I have inverted the x-axis. This is just a preference and is optional.
-    #plt.gca().invert_yaxis() # Here, I have inverted the y-axis. This is just a preference and is optional.
-    figure(figsize=(5, 10))
+            plt.tight_layout()
+            
+#Exception Handling
+            if 'age' and 'year': #Define x-axis
+                print("Both age and year available - selecting years for the x-axis")
+                x_axis = i['year']
+                x_label = (i['yearUnits'])
+            elif 'age' and not 'year':
+                print("Only age available - selecting age for the x-axis ")
+                x_axis = i['age']
+                x_label = (i['ageUnits'])
+            elif 'year' and not 'age':
+                print("Only year available - selecting years for the x-axis")
+                x_axis = i['year']
+                x_label = i['yearUnits']
+            else: 
+                # print("No age or year available - cannot plot")                
+                raise KeyError("No age or year available - cannot plot")    
+#Exception Handling
+
+            print(x_label)
+            plt.xlabel(x_label)
+            plt.plot(x_axis,y_axis)
 
     return plt.show()
 
 
-def final_plot(data):
-    """ This function filters the plots returned by make_plot(data) 
-    Parameters: 
-    - data (dict): the LiPD file data
-    
-    Returns
-    -  make_plot(data) (function)
-    """
-    with HiddenPrints():
-        ts = lipd.extractTs(data)
-    for y in ts:
-        if any (x in y["paleoData_variableName"] for x in {"age","depth","year"}): #removing these as they are not useful in this case
-            continue 
-        else:
-            figure(figsize=(5, 10))
-            make_plot(y)
-            
             
 def make_table(data):
     """ This function contains the code needed to tabulate the information contained in the LiPD dataset 
@@ -106,13 +111,15 @@ def make_table(data):
                     continue #removing unwanted proxy types. Proxy types = what is measured 
             else: proxyType = item["paleoData_variableName"]
 
+#Exception handling
             if "year" in item: #minimum and maximum ages 
                 min_age = min(map(float,item["year"]))
                 max_age = max(map(float,item["year"]))
             else:
                 min_age = ""
                 max_age = ""
-
+#Exception handling
+                
             geo_meanLon = item["geo_meanLon"] #location coordinates
             geo_meanLat = item["geo_meanLat"]
 
@@ -142,39 +149,54 @@ def make_table(data):
                 resolution_min_value
             ]
             ana.writerow(data)
+
         return pd.read_table('data2.csv', sep=',', index_col=0)
-    
-    
     
     
 def get_archive_num(archive_type): 
     """ This function deals with duplicate data and converts the archive type to a number (used for coloring).
     Parameters: 
-    - archive_type (str): ... 
+    - archive_type (str)  
     
     Returns
     -  i : integer 
     """
-    archive_types = ["Coral", "Lake Sediment", "Marine Sediment", "Tree", "Peat", "Sediment", "Leaf material", "Ostracod", "Foraminifera", "Speleothem"]
+    archive_types = ["Coral", "Lake Sediment", "Marine Sediment", "Tree", "Peat", "Sediment", "Leaf material", "Ostracod", "Foraminifera", "Speleothem"] #You can add more / less
     # Convert archive type to a number (used for coloring).
     # Deal with duplicates, e.g. 'Lake Sediment' = 'lake sediment' = 'LakeSediment' = 1
     for i, item in enumerate(archive_types):
         if archive_type.lower().replace(" ","") == item.lower().replace(" ",""):
             return i
         
-    # Special case
+#Exception Handling  
     if archive_type.lower().replace(" ","") == "treering":
         return archive_types.index("Tree")
-    raise ValueError(f"Unkown archive type: {archive_type}")
+    elif archive_type.lower().replace(" ", "") == "icecore": #Extra - not in my dataset 
+        return archive_types.index("Glacier ice")
+    elif archive_type.lower().replace(" ", "") == "bivalve": #Extra - not in my dataset 
+        return archive_types.index("molluskshells") 
+    ValueError(f"Unkown archive type: {archive_type}")
+#Exception Handling  
+
     
     
-def make_temporal_map(data):
+def make_temporal_map(data, temporal_extent):
     """ This function makes the temporal graph.
     Parameters: 
         - data (dict): the LiPD file data
     Returns
     -  matplotlib figure
     """
+    min_extent = temporal_extent[0]
+    max_extent = temporal_extent[1]
+
+#Exception handling
+    if type(min_extent) != int:
+        raise KeyError("User has not input minimum extent")  
+    elif type(max_extent) != int:
+        raise KeyError("User has not input maximum extent")  
+#Exception handling
+
     data = pd.read_table('data2.csv', sep=',')
     data = data.drop_duplicates(subset=["Longitude", "Latitude"], keep="first") #This removes any duplicates (based on longitude and latitude)
     data = data.sort_values(["Latitude"]) #sorting the table by latitude - you can sort by any of the keys
@@ -194,9 +216,9 @@ def make_temporal_map(data):
         if ((not numpy.isnan(x[0])) and (not numpy.isnan(x[1]))): 
             archive_type = data["Archive Type"].values[i]
         plt.plot(x, y, c=colors[get_archive_num(archive_type)], solid_capstyle='round')
-        
-    plt.xlim([0,2022]) #YOU CAN MODIFY THIS 
+    
 
+    plt.xlim([min_extent,max_extent]) 
 
     #Make the figure
     plt.xlabel('year (CE)') 
@@ -208,7 +230,7 @@ def make_temporal_map(data):
     return plt.show()
     
     
-def make_spatial_map(data):    
+def make_spatial_map(data, map_extent):    
     """ This function makes the temporal graph.
     Parameters: 
         - data (dict): the LiPD file data
@@ -216,11 +238,29 @@ def make_spatial_map(data):
     -  matplotlib figure
     """
 
-    #Creating a map 
-    ax = plt.axes(projection = ccrs.PlateCarree())
-    plt.title('Distribution of Archive')
-    ax.set_extent([100, 180, 10, -60], ccrs.PlateCarree()) # YOU CAN MODIFY THIS - This is for Australia
+    min_lon = map_extent[0]
+    max_lon = map_extent[1]
+    min_lat = map_extent[2]
+    max_lat = map_extent[3]
 
+#Exception handling
+    if type(min_lon) != int:
+        raise KeyError("User has not input minimum longitude")  
+    elif type(max_lon) != int:
+        raise KeyError("User has not input maximum longitude")  
+    elif type(min_lat) != int:
+        raise KeyError("User has not input minimum latitude")
+    elif type(max_lat) != int:
+        raise KeyError("User has not input maximum latitude")
+#Exception handling
+
+    #Creating a map 
+    projection = ccrs.PlateCarree()
+    ax = plt.axes(projection = ccrs.PlateCarree()) #You can choose another projection
+    plt.title('Distribution of Archive')
+    ax.set_extent([min_lon, max_lon, min_lat, max_lat], ccrs.PlateCarree())
+
+    #Defining types for our plot
     archive_types = ["Coral", "Lake Sediment", "Marine Sediment", "Tree", "Peat", "Sediment", "Leaf material", "Ostracod", "Foraminifera", "Speleothem"]
 
     ax.coastlines(resolution='110m')
@@ -257,3 +297,5 @@ def make_spatial_map(data):
     ax.legend(handles=patches, bbox_to_anchor=(1.2, 0.15), loc='lower left', borderaxespad=0)
 
     return plt.show()
+
+

@@ -1,0 +1,604 @@
+Dataset Name,Archive Type,Proxy Type,Minimum Age,Maximum Age,Longitude,Latitude,Max Resolution,Min Resolution
+10_MAG01D,Coral,Luminescence,1814.0,1985.0,146.87,-19.15,1.0,1.0
+11_HKO01B,Coral,Luminescence,1661.0,1984.0,148.95,-20.07,1.0,1.0
+12_SNH01A,Coral,Luminescence,1820.0,1991.0,148.9,-20.1,1.0,1.0
+13_NMI01B,Coral,Luminescence,1882.0,1983.0,148.8,-20.23,1.0,1.0
+146_01papu02a,Coral,Delta-oxygen-18,1884.542,1993.042,144.883,-4.15,-0.25,0.25
+147_01papu03a,Coral,Delta-oxygen-18,1880.792,1993.042,145.817,-5.217,-0.25,0.25
+14_CID01A,Coral,Luminescence,1825.0,1990.0,148.93,-20.27,1.0,1.0
+156_DuncanPinkPineNZ2010,Tree ring,Tree ring width index,1457.0,1999.0,172.1772,-43.2725,1.0,1.0
+157_DArrigoStewartIsland1996,Tree ring,Tree ring width index,1758.0,1993.0,168.0,-47.0,1.0,1.0
+158_2Bd13C,Coral,Delta-carbon-13,1968.54,1994.12,-109.2167,10.3,-0.07999999999992724,0.08999999999991815
+159_2Bd13Cave,Coral,Delta-carbon-13,1968.54,1994.12,-109.2167,10.3,-0.07999999999992724,0.08999999999991815
+15_SMI01C,Coral,Luminescence,1855.0,1981.0,148.83,-20.27,1.0,1.0
+160_2Bd18O,Coral,Delta-oxygen-18,1968.54,1994.12,-109.2167,10.3,-0.07999999999992724,0.08999999999991815
+161_2Bd18Oave,Coral,Delta-oxygen-18,1968.54,1994.12,-109.2167,10.3,-0.07999999999992724,0.08999999999991815
+162_3Cd13C,Coral,Delta-carbon-13,1969.62,1994.12,-109.2167,10.3,-0.07999999999992724,0.08999999999991815
+163_3Cd13Cave,Coral,Delta-carbon-13,1969.62,1994.12,-109.2167,10.3,-0.07999999999992724,0.08999999999991815
+164_3Cd18O,Coral,Delta-oxygen-18,1969.62,1994.12,-109.2167,10.3,-0.07999999999992724,0.08999999999991815
+165_3Cd18Oave,Coral,Delta-oxygen-18,1969.62,1994.12,-109.2167,10.3,-0.07999999999992724,0.08999999999991815
+166_4Bd13C,Coral,Delta-carbon-13,1893.79,1994.04,-109.2167,10.3,-0.07999999999992724,0.09000000000014552
+16_LUP01C,Coral,Luminescence,1826.0,1983.0,149.12,-20.28,1.0,1.0
+17_HMP01B,Coral,Luminescence,1685.0,1995.0,151.0,-23.2,1.0,1.0
+182_1132B,marine sediment,benthic.d13C,29.9547285497189,132.101997856154,127.6022,-33.3162,8.531698781613102,0.5604311729930984
+182_1132B,marine sediment,benthic.d18O,29.9547285497189,132.101997856154,127.6022,-33.3162,8.531698781613102,0.5604311729930984
+182_1132B,marine sediment,CaCO3,29.9547285497189,132.101997856154,127.6022,-33.3162,47.88160291609759,1.8537995234728015
+182_Ningalood18OSONDJF,Coral,Delta-oxygen-18,1880.0,1994.0,113.97,-21.9,1.0,1.0
+198_d13CSwallowLagoon,Leaf material,Delta-carbon-13,-43.0,7693.0,153.4547,-27.4986,146.0,2.0
+199_DleafSwallowLagoon,Leaf material,Delta leaf (carbon istope discrimination),-43.0,7693.0,153.4547,-27.4986,146.0,2.0
+1_CNR01B,Coral,Luminescence,1888.0,1983.0,145.32,-15.13,1.0,1.0
+200_Chillagoed18O,Speleothem,Delta-oxygen-18,1227.0,2003.0,144.3931,-17.0917,-1.0,1.0
+203_DustdeprateUSnowyRange,Sediment,Dust deposition,3.51,6493.02,148.299,-36.463,83.90000000000009,3.58
+204_Xiong_WerberforceStandard,Tree ring,Tree ring width index,1674.0,1992.0,171.28,-43.07,1.0,1.0
+205_Xiong_WerberforceARSTND,Tree ring,Tree ring width index,1678.0,1992.0,171.28,-43.07,1.0,1.0
+206_Xiong_WerberforceResidual,Tree ring,Tree ring width index,1679.0,1992.0,171.28,-43.07,1.0,1.0
+207_Xiong_RahuSaddleStandard,Tree ring,Tree ring width index,1560.0,1992.0,172.12,-42.32,1.0,1.0
+208_Xiong_RahuSaddleARSTND,Tree ring,Tree ring width index,1562.0,1992.0,172.12,-42.32,1.0,1.0
+209_Xiong_RahuSaddleResidual,Tree ring,Tree ring width index,1563.0,1992.0,172.12,-42.32,1.0,1.0
+210_Xiong_MtEgmontRStandard,Tree ring,Tree ring width index,1616.0,1990.0,174.08,-39.25,1.0,1.0
+211_Xiong_MtEgmontRARSTND,Tree ring,Tree ring width index,1617.0,1990.0,174.08,-39.25,1.0,1.0
+212_Xiong_MtEgmontRResidual,Tree ring,Tree ring width index,1623.0,1990.0,174.08,-39.25,1.0,1.0
+213_Xiong_UreweraRStandard,Tree ring,Tree ring width index,1140.0,1992.0,177.2,-38.68,1.0,1.0
+214_Xiong_UreweraRARSTND,Tree ring,Tree ring width index,1141.0,1992.0,177.2,-38.68,1.0,1.0
+215_Xiong_UreweraRResidual,Tree ring,Tree ring width index,1142.0,1992.0,177.2,-38.68,1.0,1.0
+216_Xiong_NEgmontRStandard,Tree ring,Tree ring width index,1625.0,1990.0,174.1,-39.28,1.0,1.0
+217_Xiong_NEgmontRARSTND,Tree ring,Tree ring width index,1628.0,1990.0,174.1,-39.28,1.0,1.0
+218_Xiong_NEgmontRResidual,Tree ring,Tree ring width index,1629.0,1990.0,174.1,-39.28,1.0,1.0
+219_Palmer_WaihoraLagoonStandard,Tree ring,Tree ring width index,1650.0,1985.0,175.67,-38.65,1.0,1.0
+220_PalmerWaihoraLagoonARSTND,Tree ring,Tree ring width index,1650.0,1985.0,175.67,-38.65,1.0,1.0
+221_Palmer_WaihoraLagoonResidual,Tree ring,Tree ring width index,1652.0,1985.0,175.67,-38.65,1.0,1.0
+222_Palmer_WaihoraTerrStandard,Tree ring,Tree ring width index,1613.0,1986.0,175.6,-38.7,1.0,1.0
+223_PalmerWaihoraTerrARSTND,Tree ring,Tree ring width index,1614.0,1986.0,175.6,-38.7,1.0,1.0
+224_Palmer_WaihoraTerrResidual,Tree ring,Tree ring width index,1615.0,1986.0,175.6,-38.7,1.0,1.0
+225_Palmer_RataCrkStandard,Tree ring,Tree ring width index,1787.0,1980.0,171.8,-43.15,1.0,1.0
+226_PuketiForestSouth,Tree ring,Tree ring width index,1504.0,2002.0,173.73,-35.27,1.0,1.0
+227_OnekuraBluffPuketiForest,Tree ring,Tree ring width index,1675.0,1981.0,173.75,-35.18,1.0,1.0
+228_MtWilliam,Tree ring,Tree ring width index,1580.0,1981.0,175.03,-37.22,1.0,1.0
+229_ManaiaSanctuary,Tree ring,Tree ring width index,1269.0,1998.0,175.55,-36.9,1.0,1.0
+230_LittleBarrierIsland,Tree ring,Tree ring width index,1790.0,1981.0,175.13,-36.2,1.0,1.0
+231_HiddenValley,Tree ring,Tree ring width index,1679.0,2002.0,175.43,-36.2,1.0,1.0
+232_LakePearson,Tree ring,Tree ring width index,1833.0,1978.0,171.78,-43.12,1.0,1.0
+233_Katikati,Tree ring,Tree ring width index,1698.0,1996.0,175.87,-37.6,1.0,1.0
+234_Huapai_,Tree ring,Tree ring width index,1483.0,1997.0,174.5,-36.82,1.0,1.0
+235_Cascades_,Tree ring,Tree ring width index,1559.0,1982.0,174.53,-36.88,1.0,1.0
+236_BuckleysChanceHuonBCH,Tree ring,Tree ring width index,1463.0,1991.0,145.87,-42.27,1.0,1.0
+237_CTPWest,Tree ring,Tree ring width index,1547.0,1998.0,146.0,-42.0,1.0,1.0
+238_Huia_,Tree ring,Tree ring width index,1720.0,1981.0,174.57,-36.97,1.0,1.0
+239_Juna_Downs_Gully,Tree ring,Tree ring width index,1761.0,2011.0,118.6167,-22.8333,1.0,1.0
+242_centeredcompositeSavusavu_Bay,Coral,Delta-oxygen-18,1776.0,2001.0,179.23,-16.82,-1.0,1.0
+243_AvaikiASM1laminathickness,Speleothem,Lamina thickness,1829.0,2001.0,169.83,-19.0,1.0,1.0
+247_Baw_Baw,Tree ring,Tree ring width index,1818.0,2002.0,148.33,-36.42,1.0,1.0
+265_PutaraStandard,Tree ring,Tree ring width index,1646.0,1993.0,175.52,-40.67,1.0,1.0
+266_PutaraARSTND,Tree ring,Tree ring width index,1646.0,1993.0,175.52,-40.67,1.0,1.0
+267_PutaraResidual,Tree ring,Tree ring width index,1646.0,1993.0,175.52,-40.67,1.0,1.0
+268_Kauri,Tree ring,Tree ring width index,1577.0,2002.0,174.0,-36.0,1.0,1.0
+269_gbrluminescence2003,Coral,Luminescence,1612.0,1985.0,146.75,-18.5,-1.0,1.0
+270_AvaikiASM2laminathickness,Speleothem,Growth rate,1760.0,2001.0,169.83,-19.0,-1.0,17.0
+271_AvaikiASM3laminathickness,Speleothem,Growth rate,1874.0,2001.0,169.83,-19.0,-1.0,1.0
+272_AvaikiASM4laminathickness,Speleothem,Growth rate,1883.0,2001.0,169.83,-19.0,-1.0,43.0
+273_AvaikiASM1laminathicknessfiltered,Speleothem,Lamina thickness,1829.0,2001.0,169.83,-19.0,-1.0,1.0
+274_AvaikiASM2laminathicknessfiltered,Speleothem,Growth rate,1760.0,2001.0,169.83,-19.0,-1.0,17.0
+275_AvaikiASM3laminathicknessfiltered,Speleothem,Growth rate,1874.0,2001.0,169.83,-19.0,-1.0,1.0
+276_AvaikiASM4laminathicknessfiltered,Speleothem,Growth rate,1883.0,2001.0,169.83,-19.0,-1.0,43.0
+277_ncqtr13C,Coral,Delta-carbon-13,1657.75,1992.75,166.47,-22.48,-0.25,0.25
+278_ncqtr18O,Coral,Delta-oxygen-18,1657.75,1992.75,166.47,-22.48,-0.25,0.25
+279_Bundegi_BUN05A_Zinke15,Coral,Strontium-calcium ratio,1961.0,2008.0,114.178,-21.836,1.0,1.0
+281_Clerke_CLE09_Zinke2015,Coral,Strontium-calcium ratio,1955.0,2009.0,119.26,-17.26,1.0,1.0
+282_Imperieuse_IMP03A_Zinke15,Coral,Strontium-calcium ratio,1806.0,2009.0,118.974,-17.5369,1.0,1.0
+283_Imperieuse_IMP05A_Zinke15,Coral,Strontium-calcium ratio,1798.0,2009.0,118.969,-17.5196,1.0,1.0
+284_Mermaid_MER09_Zinke15,Coral,Strontium-calcium ratio,1891.0,2009.0,119.6,-17.1,1.0,1.0
+287_Tantabiddi_TNT07C_Zinke15,Coral,Strontium-calcium ratio,1952.0,1999.0,113.963,-21.893,1.0,1.0
+289_SEQSWDbanban,Sediment,Slack water flood deposits,165.0,1160.0,151.82,-25.67,995.0,995.0
+290_SEQSWDFishermansPocket,Sediment,Slack water flood deposits,82.0,600.0,152.69,-26.31,225.0,400.0
+291_SEQSWDHelidon,Sediment,Slack water flood deposits,270.0,755.0,152.13,-27.53,485.0,485.0
+292_LockyerValleyflooddep,Sediment,Grain size,0.0,13450.0,152.2761,-27.5589,0.0,1660.0
+294_Bali_Coral_d18O,Coral,Delta-oxygen-18,1782.0,1990.0,115.0,-8.0,0.09000000000014552,0.07999999999992724
+295_Bunaken_Coral_d18O,Coral,Delta-oxygen-18,1860.0,1990.58,123.0,2.8,0.09000000000014552,0.07999999999992724
+2_NOR01B,Coral,Luminescence,1874.0,1984.0,146.1,-17.2,1.0,1.0
+303_Keppel_Bay_beach_ridges,Sediment,Sediment accumulation,60.0,1575.0,150.8056,-23.4097,560.0,115.0
+310_Abrolhos_Coral_18O,Coral,Delta-oxygen-18,1794.561,1994.375,113.7683,-28.4617,0.0,1.0
+335_Lake_Lading__dDleafwax,Leaf material,Delta-deuterium,851.9,2000.2,113.312,-8.0088,-2.6000000000001364,25.40000000000009
+337_Lake_Logung__deltaCarbon13_,Sediment,Delta-carbon-13,627.5,2009.3,113.3075,-8.0418,0.0,55.200000000000045
+339_Duckhole_Lake__chlorophyll,Sediment,Reflectance,1140.4,2008.4,146.875,-43.365,-0.5,171.29999999999995
+340_Rebecca_Lagoon_degree_of_diagenesis,Sediment,Reflectance,-1704.0,2008.0,144.41,-41.11,0.0,21.0
+341_Lakes_Keilambete_grain_size_63um,Sediment,Grain size,-54.0,9357.0,142.878,-38.207,247.0,24.0
+342_Lake_Logung__Total_inorganic_carbon,Sediment,Total inorganic carbon,627.5,2009.3,113.3075,-8.0418,0.0,21.40000000000009
+345_RECALIBRATED_Lakes_Keilambete_grain_size_63um,Sediment,Grain size,-36.0,9137.0,143.0061,-38.2161,235.0,23.0
+347_Jacka_Lake__quartz_sand,Sediment,Grain size,-5771.0,2000.0,141.8,-36.8,-3.0,717.0
+351_Lombok_Basin__calcium,Sediment,Calcium,-30.0,5815.8,118.8932,-9.2236,66.0,7.0
+352_Lombok_Basin__titanium,Sediment,Titanium,-30.0,5815.8,118.8932,-9.2236,66.0,7.0
+353_Lombok_Basin__iron,Sediment,Iron,-30.0,5815.8,118.8932,-9.2236,66.0,7.0
+354_Lombok_Basin__lnTiCa,Sediment,Natural log of ti/ca,-30.0,5815.8,118.8932,-9.2236,66.0,7.0
+355_Makassar_Strait_982160Newton__carbonate_stable_isotopes,Foraminifera,Delta-oxygen-18,109.95,945.64,117.487,-5.2011,15.759999999999991,1.6399999999999864
+357_Makassar_Strait_982160Newton__mgca,Foraminifera,Magnesium-calcium ratio,109.95,945.64,117.487,-5.2011,20.00999999999999,1.6399999999999864
+374_Oppo_Makassar_Strait_BJ80331MCA_d18Ocalcite,Foraminifera,Delta-oxygen-18,1711.5,1986.6,119.45,-3.833,-4.5,7.0
+375_Oppo_Makassar_Strait_BJ80331MCA_mgca_calcite,Foraminifera,Magnesium-calcium ratio,1711.5,1986.6,119.45,-3.833,-4.5,13.799999999999955
+376_Oppo_Makassar_Strait_BJ80331MCA_feca_calcite,Foraminifera,Iron-calcium ratio,1711.5,1986.6,119.45,-3.833,-4.5,13.799999999999955
+377_Oppo_Makassar_Strait_BJ80331MCA_alca_calcite,Foraminifera,Aluminium-calcium ratio,1711.5,1986.6,119.45,-3.833,-4.5,13.799999999999955
+378_Oppo_Makassar_Strait_BJ80332GGC__mgca_calcite_,Foraminifera,Magnesium-calcium ratio,0.0,1897.13,119.45,-3.833,224.43000000000006,2.090000000000032
+379_Oppo_Makassar_Strait_BJ80332GGC__feca_calcite,Foraminifera,Iron-calcium ratio,0.0,1897.13,119.45,-3.833,224.43000000000006,2.090000000000032
+381_Oppo_Makassar_Strait_BJ80332GGC__d18Orub,Foraminifera,Delta-oxygen-18,0.0,1897.13,119.45,-3.833,224.43000000000006,2.090000000000032
+383_Oppo_Makassar_Strait_BJ80332GGC__d18Orub2,Foraminifera,Delta-oxygen-18,7.51,1928.0,119.45,-3.833,61.0,2.090000000000032
+384_Oppo_Makassar_Strait_BJ80332GGC__d13Crub,Foraminifera,Delta-carbon-13,7.51,1928.0,119.45,-3.833,61.0,2.090000000000032
+385_Oppo_Makassar_Strait_BJ80334GGC__mgca_calcite,Foraminifera,Magnesium-calcium ratio,-365.7,1622.47,119.45,-3.833,-4.059999999999945,76.99000000000004
+386_Oppo_Makassar_Strait_BJ80334GGC__mgca+25,Foraminifera,Magnesium-calcium ratio,-365.7,1622.47,119.45,-3.833,-4.059999999999945,76.99000000000004
+387_Oppo_Makassar_Strait_BJ80334GGC__feca,Foraminifera,Iron-calcium ratio,-365.7,1622.47,119.45,-3.833,-4.059999999999945,76.99000000000004
+388_Oppo_Makassar_Strait_BJ80334GGC__alca,Foraminifera,Aluminium-calcium ratio,-365.7,1622.47,119.45,-3.833,-4.059999999999945,76.99000000000004
+390_Oppo_Makassar_Strait_BJ80334GGC__d18Orub,Foraminifera,Delta-oxygen-18,-365.7,1622.47,119.45,-3.833,-4.059999999999945,92.4
+391.3_NottChillagoe_cavedeltaOxygen18,Speleothem,Delta-oxygen-18,-53.0,723.0,144.6,-17.2,1.0,1.0
+393_Oppo_Makassar_Strait_MD982160__d18Ocalcite,Foraminifera,Delta-oxygen-18,1004.36,1815.0,117.487,-5.2011,-6.669999999999845,20.710000000000036
+394_Oppo_Makassar_Strait_MD982160__d18Ocalciteminus01,Foraminifera,Delta-oxygen-18,1004.36,1815.0,117.487,-5.2011,-6.669999999999845,20.710000000000036
+396_Tierney_Makassar_Strait__BJ80331__leafwax_dD,Leaf material,Delta-deuterium,1718.0,1998.0,119.45,-3.8333,-9.0,14.0
+397_Tierney_Makassar_Strait_BJ80334__Leafwax_dD,Leaf material,Delta-deuterium,-331.0,1619.0,119.45,-3.8333,-30.0,65.0
+398_Kau_Bay__d15N,Sediment,Delta-nitrogen-15,163.0,3385.0,127.7167,0.5,134.0,36.0
+399_Kau_Bay__CN,Sediment,Carbon-nitrogen ratio,163.0,3385.0,127.7167,0.5,956.0,415.0
+3_DUN02A,Coral,Luminescence,1868.0,1987.0,146.17,-17.95,1.0,1.0
+400_Kau_Bay__d13C_plant_wax,Leaf material,Delta-carbon-13,163.0,3385.0,127.7167,0.5,956.0,415.0
+409_RECALIBRATED_Blue_Lake_lithostratigraphy__mgca_,Ostracod,Magnesium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,138.39999999999986,0.0
+410_RECALIBRATED_Blue_Lake_lithostratigraphy__mgca_G_australica,Ostracod,Magnesium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,138.39999999999986,11.900000000000091
+411_RECALIBRATED_Blue_Lake_lithostratigraphy__mgca_C_novaezelandiae,Ostracod,Magnesium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,2809.4,24.9
+413_RECALIBRATED_Blue_Lake_lithostratigraphy__mgca_L_mowbrayensis,Ostracod,Magnesium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,3921.9999999999995,19.900000000000006
+415_RECALIBRATED_Blue_Lake_lithostratigraphy__srca,Ostracod,Strontium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,138.39999999999986,0.0
+416_RECALIBRATED_Blue_Lake_lithostratigraphy__srca_G_australica,Ostracod,Strontium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,138.39999999999986,11.900000000000091
+417_RECALIBRATED_Blue_Lake_lithostratigraphy__srca_C_novaezelandiae,Ostracod,Strontium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,2809.4,24.9
+419_RECALIBRATED_Blue_Lake_lithostratigraphy__srca_L_mowbrayensis,Ostracod,Strontium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,3921.9999999999995,19.900000000000006
+421_RECALIBRATED_Blue_Lake_lithostratigraphy__naca,Ostracod,Sodium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,138.39999999999986,0.0
+422_RECALIBRATED_Blue_Lake_lithostratigraphy__naca_G_australica,Ostracod,Sodium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,138.39999999999986,11.900000000000091
+423_RECALIBRATED_Blue_Lake_lithostratigraphy__naca_C_novaezelandiae,Ostracod,Sodium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,2809.4,24.9
+425_RECALIBRATED_Blue_Lake_lithostratigraphy__naca_L_mowbrayensis,Ostracod,Sodium-calcium ratio,-49.8,5869.8,140.0129,-37.0141,3921.9999999999995,19.900000000000006
+427_RECALIBRATED_Blue_Lake_lithostratigraphy__d18O,Ostracod,Delta-oxygen-18,-49.8,5869.8,140.0129,-37.0141,199.69999999999982,0.0
+428_RECALIBRATED_Blue_Lake_lithostratigraphy__d18O_G_australica,Ostracod,Delta-oxygen-18,-49.8,5869.8,140.0129,-37.0141,199.69999999999982,11.900000000000091
+429_RECALIBRATED_Blue_Lake_lithostratigraphy__d18O_C_novaezelandiae,Ostracod,Delta-oxygen-18,-49.8,5869.8,140.0129,-37.0141,2087.8,51.89999999999998
+431_RECALIBRATED_Blue_Lake_lithostratigraphy__d13C,Ostracod,Delta-carbon-13,-49.8,5869.8,140.0129,-37.0141,199.69999999999982,0.0
+432_RECALIBRATED_Blue_Lake_lithostratigraphy__d13C_G_australica,Ostracod,Delta-carbon-13,-49.8,5869.8,140.0129,-37.0141,199.69999999999982,11.900000000000091
+433_RECALIBRATED_Blue_Lake_lithostratigraphy__d13C_C_novaezelandiae,Ostracod,Delta-carbon-13,-49.8,5869.8,140.0129,-37.0141,2087.8,51.89999999999998
+437_RECALIBRATED_Duckhole_Lake__chlorophyll,Sediment,Reflectance,-55.0,806.0,146.875,-43.365,3.0,0.0
+439_South_Sunda_Islands_GeoB100657_mgca_P_obliqu,Foraminifera,Magnesium-calcium ratio,-34.0,2045.1,118.8935,-9.2236,36.5,0.0
+441_South_Sunda_Islands_GeoB100657_G_bulloides_mgca,Foraminifera,Magnesium-calcium ratio,-34.0,2045.1,118.8935,-9.2236,27.80000000000001,3.0
+447_RECALIBRATED_Jacka_Lake__quartz_sand,Sediment,Grain size,-30.0,6150.0,141.8,-36.8,291.0,10.0
+448_RECALIBRATED_Kau_Bay__d15N,Sediment,Delta-nitrogen-15,182.0,3207.0,127.5,1.0,126.0,38.0
+449_RECALIBRATED_Kau_Bay__CN,Sediment,Carbon-nitrogen ratio,182.0,3207.0,127.5,1.0,1040.3,319.0
+450_RECALIBRATED_Kau_Bay__d13C_plant_wax,Leaf material,Delta-carbon-13,182.0,3207.0,127.5,1.0,1040.3,319.0
+453_RECALIBRATED_Lake_Lading__dDleafwax,Leaf material,Delta-deuterium,-49.1,1068.8,138.312,-8.0088,87.69999999999993,2.8999999999999773
+454_RECALIBRATED_Lake_Lading__dDleafwaxlowpass,Leaf material,Delta-deuterium,-49.1,1068.8,138.312,-8.0088,87.69999999999993,2.8999999999999773
+455_RECALIBRATED_Lake_Lamongan__geochem_drought_record,Sediment,Magnesium-carbonate,-46.5,504.5,113.3833,-7.9833,67.69999999999999,0.0
+456_RECALIBRATED_Lake_Logung__magnetic_susceptibility,Sediment,Magnetic susceptibility,-57.1,1230.9,113.3074,-8.0421,4.599999999999909,0.0
+457_RECALIBRATED_Lake_Logung__total_inorganic_carbon,Sediment,Total inorganic carbon,-57.1,1222.1,113.3074,-8.0421,28.399999999999977,0.0
+458_RECALIBRATED_Lake_Logung__total_organic_carbon,Sediment,Total organic carbon,-57.1,1222.1,113.3074,-8.0421,28.399999999999977,0.0
+459_RECALIBRATED_Lake_Logung__Nitrogen,Sediment,Nitrogen,-57.1,1222.1,113.3074,-8.0421,28.399999999999977,0.0
+460_RECALIBRATED_Lake_Logung__CN_ratio,Sediment,Organic carbon-nitrogen ratio,-57.1,1222.1,113.3074,-8.0421,28.399999999999977,0.0
+461_RECALIBRATED_Lake_Logung__d13C,Sediment,Delta-carbon-13,-57.1,1222.1,113.3074,-8.0421,41.39999999999998,0.0
+462_RECALIBRATED_Lake_Logung__d15N,Sediment,Delta-nitrogen-15,-57.1,1222.1,113.3074,-8.0421,41.39999999999998,0.0
+463_RECALIBRATED_Lake_Logung__biogenic_opal,Sediment,Biogenic opal,-55.2,1222.1,113.3074,-8.0421,61.60000000000002,0.0
+464_RECALIBRATED_Lake_Logung__CorescannerXRFtitanium_concentration_,Sediment,Titanium,-46.4,1231.9,113.3074,-8.0421,5.5,0.0
+465_RECALIBRATED_Lake_Logung__CorescannerXRFiron_concentration,Sediment,Iron,-46.4,1231.9,113.3074,-8.0421,5.5,0.0
+466_RECALIBRATED_Lake_Logung__CorescannerXRFcati,Sediment,Calcium-titanium ratio,-46.4,1231.9,113.3074,-8.0421,5.5,0.0
+467_RECALIBRATED_Lake_Logung__CorescannerXRFsiti,Sediment,Silica-titanium ratio,-46.4,1231.9,113.3074,-8.0421,45.699999999999996,0.0
+468_RECALIBRATED_Lake_Logung__HandheldXRFtitanium_concentration_,Sediment,Titanium,-57.1,-24.9,113.3074,-8.0421,1.3000000000000043,0.30000000000000426
+469_RECALIBRATED_Lake_Logung__HandheldXRFiron_concentration,Sediment,Iron,-57.1,-24.9,113.3074,-8.0421,1.3000000000000043,0.30000000000000426
+470_RECALIBRATED_Lake_Logung__HandheldXRFcati,Sediment,Calcium-titanium ratio,-57.1,-24.9,113.3074,-8.0421,1.3000000000000043,0.30000000000000426
+475_RECALIBRATED_Snowy_River_dust_deposition,Sediment,Dust deposition,6.0,6528.0,148.299,-36.463,72.0,2.0
+476_RECALIBRATED_Upper_Ruined_Hut_dust_deposition,Sediment,Dust deposition,-12.0,6683.0,169.202,-45.449,363.0,10.0
+477_RECALIBRATED_Rebecca_Lagoon_degree_of_diagenesis,Sediment,Reflectance,-60.0,3087.0,144.6833,-41.1833,21.0,0.0
+478_RECALIBRATED_Western_Pacific_Warm_Pool_MD982176__mgca,Foraminifera,Magnesium-calcium ratio,81.0,20438.0,133.44,-5.0,351.0,0.0
+479_RECALIBRATED_Western_Pacific_Warm_Pool_MD982176_d13C,Foraminifera,Delta-carbon-13,81.0,20438.0,133.44,-5.0,630.0,0.0
+480_RECALIBRATED_Western_Pacific_Warm_Pool_MD982176__d18O,Foraminifera,Delta-oxygen-18,81.0,20438.0,133.44,-5.0,630.0,0.0
+482_RECALIBRATED_Makassar_Strait_982177_northern__mgca,Foraminifera,Magnesium-calcium ratio,-32.0,2107.0,119.08,1.4,78.0,12.0
+483_RECALIBRATED_Makassar_Strait_982177_northern__d18O,Foraminifera,Delta-oxygen-18,-32.0,2107.0,119.08,1.4,72.0,12.0
+484_RECALIBRATED_Makassar_Strait_982160Newton__mgca,Foraminifera,Magnesium-calcium ratio,21.0,1510.0,117.49,-5.2,23.0,6.0
+485_RECALIBRATED_Makassar_Strait_982160Newton__d18O,Foraminifera,Delta-oxygen-18,21.0,1510.0,117.49,-5.2,28.0,6.0
+494_RECALIBRATED_Makassar_Strait_BJ80331__d18O,Foraminifera,Delta-oxygen-18,-27.7,286.1,119.45,3.88,13.799999999999997,5.799999999999983
+495_RECALIBRATED_Makassar_Strait_BJ80331__mgca,Foraminifera,Magnesium-calcium ratio,-27.7,286.1,119.45,3.88,13.799999999999997,5.799999999999983
+496_RECALIBRATED_Makassar_Strait_BJ80331__feca,Foraminifera,Iron-calcium ratio,-27.7,286.1,119.45,3.88,13.799999999999997,5.799999999999983
+497_RECALIBRATED_Makassar_Strait_BJ80331__alca,Foraminifera,Aluminium-calcium ratio,-27.7,286.1,119.45,3.88,13.799999999999997,5.799999999999983
+498_RECALIBRATED_Makassar_Strait_BJ80332_d18O,Foraminifera,Delta-oxygen-18,24.0,2056.0,119.45,3.88,206.0,6.0
+499_RECALIBRATED_Makassar_Strait_BJ80332_mgca,Foraminifera,Magnesium-calcium ratio,24.0,2056.0,119.45,3.88,206.0,6.0
+4_COO01E,Coral,Luminescence,1844.0,1985.0,146.18,-18.03,1.0,1.0
+501_RECALIBRATED_Makassar_Strait_BJ80332_feca,Foraminifera,Iron-calcium ratio,24.0,2056.0,119.45,3.88,206.0,6.0
+503_RECALIBRATED_Makassar_Strait_BJ80332_d18Ohighres,Foraminifera,Delta-oxygen-18,31.0,2097.0,119.45,3.88,49.0,3.0
+504_RECALIBRATED_Makassar_Strait_BJ80334__mgca,Foraminifera,Magnesium-calcium ratio,375.0,2369.0,119.45,3.88,63.0,4.0
+505_RECALIBRATED_Makassar_Strait_BJ80334__mgca_+25,Foraminifera,Magnesium-calcium ratio,375.0,2369.0,119.45,3.88,63.0,4.0
+506_RECALIBRATED_Makassar_Strait_BJ80334__feca,Foraminifera,Iron-calcium ratio,375.0,2369.0,119.45,3.88,63.0,4.0
+507_RECALIBRATED_Makassar_Strait_BJ80334__alca,Foraminifera,Aluminium-calcium ratio,375.0,2369.0,119.45,3.88,63.0,4.0
+508_RECALIBRATED_Makassar_Strait_BJ80334__d18O,Foraminifera,Delta-oxygen-18,375.0,2369.0,119.45,3.88,65.0,4.0
+512_RECALIBRATED_Makassar_Strait_982160Oppo__d18O,Foraminifera,Delta-oxygen-18,134.9,1135.0,117.49,-5.2,25.600000000000023,8.099999999999994
+513_RECALIBRATED_Makassar_Strait_982160Oppo__d18Ocalciteminus01,Foraminifera,Delta-oxygen-18,134.9,1135.0,117.49,-5.2,25.600000000000023,8.099999999999994
+515_RECALIBRATED_Makassar_Strait_BJ80334__Leafwax_dD,Leaf material,Delta-deuterium,380.3,2345.9,119.45,3.88,80.79999999999995,39.39999999999998
+516_RECALIBRATED_Makassar_Strait__BJ80331__leafwax_dD,Leaf material,Delta-deuterium,-37.0,291.0,119.45,3.88,16.0,12.0
+518_RECALIBRATED_Western_Pacific_Warm_Pool_MD982181__mgca_Gruber,Foraminifera,Magnesium-calcium ratio,-15.0,21165.0,125.83,6.3,515.0,0.0
+519_RECALIBRATED_Western_Pacific_Warm_Pool_MD982181__d13C_Gruber,Foraminifera,Delta-carbon-13,-15.0,21165.0,125.83,6.3,515.0,0.0
+520_RECALIBRATED_Western_Pacific_Warm_Pool_MD982181__d18O_Gruber,Foraminifera,Delta-oxygen-18,-15.0,21165.0,125.83,6.3,515.0,0.0
+536_RECALIBRATED_South_Sunda_Islands_GeoB100657__G_bulloides_mgca,Foraminifera,Magnesium-calcium ratio,-33.4,2045.3,118.0149,-9.0037,17.80000000000001,0.6000000000000227
+539_RECALIBRATED_South_Sunda_Islands_GeoB100657__P_obliqu_mgca,Foraminifera,Magnesium-calcium ratio,-33.4,2045.3,118.0149,-9.0037,37.20000000000002,1.4000000000000057
+546_RECALIBRATED_South_Sunda_Islands_GeoB100657__ca,Foraminifera,Calcium,-29.7,5886.9,118.0149,-9.0037,60.000000000000014,6.5
+547_RECALIBRATED_South_Sunda_Islands_GeoB100657__ti,Foraminifera,Titanium,-29.7,5886.9,118.0149,-9.0037,60.000000000000014,6.5
+548_RECALIBRATED_South_Sunda_Islands_GeoB100657__fe,Foraminifera,Iron,-29.7,5886.9,118.0149,-9.0037,60.000000000000014,6.5
+549_RECALIBRATED_South_Sunda_Islands_GeoB100657__lntica,Foraminifera,Natural log of ti/ca,-29.7,5886.9,118.0149,-9.0037,60.000000000000014,6.5
+550__Blue_Lake_lithostratigraphy__mgca_G_australica,Ostracod,Magnesium-calcium ratio,0.0,5690.26,140.9017,-38.0314,144.56999999999994,5.625
+551__Blue_Lake_lithostratigraphy__mgca_C_novaezelandiae,Ostracod,Magnesium-calcium ratio,0.0,5690.26,140.9017,-38.0314,3147.5299999999997,10.0
+552__Blue_Lake_lithostratigraphy__mgca_I_smaragdinus,Ostracod,Magnesium-calcium ratio,0.0,5690.26,140.9017,-38.0314,66.25,6.890000000000327
+553__Blue_Lake_lithostratigraphy__mgca_L_mowbrayensis,Ostracod,Magnesium-calcium ratio,0.0,5690.26,140.9017,-38.0314,4595.5650000000005,7.5
+554__Blue_Lake_lithostratigraphy__mgca_L_dorsosicula,Ostracod,Magnesium-calcium ratio,0.0,5690.26,140.9017,-38.0314,21.199999999999818,21.199999999999818
+556__Blue_Lake_lithostratigraphy__srca_G_australica,Ostracod,Strontium-calcium ratio,0.0,5690.26,140.9017,-38.0314,144.56999999999994,5.625
+557__Blue_Lake_lithostratigraphy__srca_C_novaezelandiae,Ostracod,Strontium-calcium ratio,0.0,5690.26,140.9017,-38.0314,3147.5299999999997,10.0
+558__Blue_Lake_lithostratigraphy__srca_I_smaragdinus,Ostracod,Strontium-calcium ratio,0.0,5690.26,140.9017,-38.0314,66.25,6.890000000000327
+559__Blue_Lake_lithostratigraphy__srca_L_mowbrayensis,Ostracod,Strontium-calcium ratio,0.0,5690.26,140.9017,-38.0314,4595.5650000000005,7.5
+560__Blue_Lake_lithostratigraphy__srca_L_dorsosicula,Ostracod,Strontium-calcium ratio,0.0,5690.26,140.9017,-38.0314,21.199999999999818,21.199999999999818
+562__Blue_Lake_lithostratigraphy__naca_G_australica,Ostracod,Sodium-calcium ratio,0.0,5690.26,140.9017,-38.0314,144.56999999999994,5.625
+563__Blue_Lake_lithostratigraphy__naca_C_novaezelandiae,Ostracod,Sodium-calcium ratio,0.0,5690.26,140.9017,-38.0314,3147.5299999999997,10.0
+564__Blue_Lake_lithostratigraphy__naca_I_smaragdinus,Ostracod,Sodium-calcium ratio,0.0,5690.26,140.9017,-38.0314,66.25,6.890000000000327
+565__Blue_Lake_lithostratigraphy__naca_L_mowbrayensis,Ostracod,Sodium-calcium ratio,0.0,5690.26,140.9017,-38.0314,4595.5650000000005,7.5
+566__Blue_Lake_lithostratigraphy__naca_L_dorsosicula,Ostracod,Sodium-calcium ratio,0.0,5690.26,140.9017,-38.0314,21.199999999999818,21.199999999999818
+568__Blue_Lake_lithostratigraphy__d18O_G_australica,Ostracod,Delta-oxygen-18,0.0,5690.26,140.9017,-38.0314,201.30000000000018,6.970000000000255
+569__Blue_Lake_lithostratigraphy__d18O_C_novaezelandiae,Ostracod,Delta-oxygen-18,0.0,5690.26,140.9017,-38.0314,2399.06,94.77000000000004
+570__Blue_Lake_lithostratigraphy__d18O_I_smaragdinus,Ostracod,Delta-oxygen-18,0.0,5690.26,140.9017,-38.0314,76.31999999999971,6.890000000000327
+572__Blue_Lake_lithostratigraphy__d13C_G_australica,Ostracod,Delta-carbon-13,0.0,5690.26,140.9017,-38.0314,201.30000000000018,6.970000000000255
+573__Blue_Lake_lithostratigraphy__d13C_C_novaezelandiae,Ostracod,Delta-carbon-13,0.0,5690.26,140.9017,-38.0314,2399.06,94.77000000000004
+574__Blue_Lake_lithostratigraphy__d13C_I_smaragdinus,Ostracod,Delta-carbon-13,0.0,5690.26,140.9017,-38.0314,76.31999999999971,6.890000000000327
+577_Lake_Logung__magnetic_susceptibility,Sediment,Magnetic susceptibility,614.7,2009.3,113.3075,-8.0418,1.7999999999999545,37.59999999999991
+578_Lake_Logung__total_organic_carbon,Sediment,Total organic carbon,627.5,2009.3,113.3075,-8.0418,1083.4,1023.5999999999999
+579_Lake_Logung__Nitrogen,Sediment,Nitrogen,627.5,2009.3,113.3075,-8.0418,0.0,48.600000000000136
+580_Lake_Logung__CN_ratio,Sediment,Organic carbon-nitrogen ratio,627.5,2009.3,113.3075,-8.0418,0.0,48.600000000000136
+581_Lake_Logung__d15N,Sediment,Delta-nitrogen-15,627.5,2009.3,113.3075,-8.0418,0.0,55.200000000000045
+582_Lake_Logung__biogenic_opal,Sediment,Biogenic opal,627.5,2005.4,113.3075,-8.0418,0.0,93.89999999999986
+583_CTPEastBLTRFR,Tree ring,Tree ring width index,1430.0,1994.0,148.0,-42.0,1.0,1.0
+584_Ghostcreektrsgi,Tree ring,Tree ring width index,1795.0,1980.0,171.75,-43.25,1.0,1.0
+585_Abrolhos_Coral_13C,Coral,Delta-carbon-13,1794.561,1994.375,113.7683,-28.4617,0.0,1.0
+586_Mangawhero_tree_ring_width,Tree ring,Tree ring width index,1551.0,1994.0,175.48,-39.35,1.0,1.0
+587_Xiong_OhutuRidgeStandardised,Tree ring,Tree ring width index,1585.0,1991.0,176.12,-39.62,1.0,1.0
+588_Xiong_OhutuRidgeARSTAN,Tree ring,Tree ring width index,1587.0,1991.0,176.12,-39.62,1.0,1.0
+589_XionOhutuRidgeresiduals,Tree ring,Tree ring width index,1588.0,1991.0,176.12,-39.62,1.0,1.0
+5_BRO01A,Coral,Luminescence,1783.0,1984.0,146.28,-18.15,1.0,1.0
+604_Takapari_Road_standard_tree_ring_growth_index_standard_newz076noaa,Tree ring,Tree ring width index,1708.0,1995.0,176.0,-40.08,1.0,1.0
+605_Takapari_Road_standard_tree_ring_growth_index_ARSTAN_newz076anoaa,Tree ring,Tree ring width index,1711.0,1995.0,176.0,-40.08,1.0,1.0
+606_Takapari_Road_standard_tree_ring_growth_index_earlywood_width_newz076enoaa,Tree ring,Tree ring width index,1744.0,1994.0,176.0,-40.08,1.0,1.0
+607_Takapari_Road_standard_tree_ring_growth_index_earlywood_width_ARSTAN_newz076eanoaa,Tree ring,Tree ring width index,1743.0,1994.0,176.0,-40.08,1.0,1.0
+608_Takapari_Road_standard_tree_ring_growth_index_earlywood_width_residual_newz076ernoaa,Tree ring,Tree ring width index,1745.0,1994.0,176.0,-40.08,1.0,1.0
+609_Takapari_Road_standard_tree_ring_growth_index_earlywood_density_standard_newz076inoaa,Tree ring,Tree ring width index,1629.0,1994.0,176.0,-40.08,1.0,1.0
+610_Takapari_Road_standard_tree_ring_growth_index_earlywood_density_ARSTAN_newz076ianoaa,Tree ring,Tree ring width index,1630.0,1994.0,176.0,-40.08,1.0,1.0
+611_Takapari_Road_standard_tree_ring_growth_index_earlywood_density_residual_newz076irnoaa,Tree ring,Tree ring width index,1632.0,1994.0,176.0,-40.08,1.0,1.0
+612_Takapari_Road_standard_tree_ring_growth_index_latewood_width_standard_newz076lnoaa,Tree ring,Tree ring width index,1708.0,1994.0,176.0,-40.08,1.0,1.0
+613_Takapari_Road_standard_tree_ring_growth_index_latewood_width_ARSTAN_newz076lanoaa,Tree ring,Tree ring width index,1712.0,1994.0,176.0,-40.08,1.0,1.0
+614_Takapari_Road_standard_tree_ring_growth_index_latewood_width_residual_newz076lrnoaa,Tree ring,Tree ring width index,1715.0,1994.0,176.0,-40.08,1.0,1.0
+615_Takapari_Road_standard_tree_ring_growth_index_minimum_density_standard_newz076nnoaa,Tree ring,Tree ring width index,1743.0,1994.0,176.0,-40.08,1.0,1.0
+616_Takapari_Road_standard_tree_ring_growth_index_minimum_density_ARSTAN_newz076nanoaa,Tree ring,Tree ring width index,1744.0,1994.0,176.0,-40.08,1.0,1.0
+617_Takapari_Road_standard_tree_ring_growth_index_minimum_density_residual_newz076nrnoaa,Tree ring,Tree ring width index,1745.0,1994.0,176.0,-40.08,1.0,1.0
+618_Takapari_Road_standard_tree_ring_growth_index_residual_newz076rnoaa,Tree ring,Tree ring width index,1712.0,1995.0,176.0,-40.08,1.0,1.0
+619_Takapari_Road_standard_tree_ring_growth_index_latewood_density_standard_newz076tnoaa,Tree ring,Tree ring width index,1629.0,1993.0,176.0,-40.08,1.0,1.0
+620_Takapari_Road_standard_tree_ring_growth_index_latewood_density_ARSTAN_newz076tanoaa,Tree ring,Tree ring width index,1630.0,1993.0,176.0,-40.08,1.0,1.0
+621_Takapari_Road_standard_tree_ring_growth_index_latewood_density_residual_newz076trnoaa,Tree ring,Tree ring width index,1631.0,1993.0,176.0,-40.08,1.0,1.0
+622_Takapari_Road_standard_tree_ring_growth_index_maximum_density_standard_newz076xnoaa,Tree ring,Tree ring width index,1629.0,1992.0,176.0,-40.08,1.0,1.0
+623_Takapari_Road_standard_tree_ring_growth_index_maximum_density_ARSTAN_newz076xanoaa,Tree ring,Tree ring width index,1630.0,1992.0,176.0,-40.08,1.0,1.0
+624_Takapari_Road_standard_tree_ring_growth_index_maximum_density_residual_newz076xrnoaa,Tree ring,Tree ring width index,1631.0,1992.0,176.0,-40.08,1.0,1.0
+628_Windy_Creek_tree_ring_growth_index,Tree ring,Tree ring width index,1747.0,1979.0,171.58,-43.08,1.0,1.0
+629_Ahaura_tree_ring_growth_index,Tree ring,Tree ring width index,1403.0,1976.0,171.8,-42.38,1.0,1.0
+6_GPI02A,Coral,Luminescence,1881.0,1984.0,146.58,-18.68,1.0,1.0
+7_PAN07B,Coral,Luminescence,1891.0,1984.0,146.43,-18.82,1.0,1.0
+8_HAV01A,Coral,Luminescence,1639.0,1985.0,146.55,-18.85,1.0,1.0
+90_594,marine sediment,CaCO3,13.5766556129456,128.382201402231,174.948,-45.5235,1.2704141959620046,0.10155694079699629
+90_594,marine sediment,planktonic.d18O,13.5766556129456,128.382201402231,174.948,-45.5235,2.755748264797301,0.10155694079699629
+90_594,marine sediment,planktonic.d13C,13.5766556129456,128.382201402231,174.948,-45.5235,2.755748264797301,0.10155694079699629
+90_594,marine sediment,benthic.d18O,13.5766556129456,128.382201402231,174.948,-45.5235,4.710026381530994,0.10155694079699629
+90_594,marine sediment,benthic.d13C,13.5766556129456,128.382201402231,174.948,-45.5235,4.710026381530994,0.10155694079699629
+9_ACH01A,Coral,Luminescence,1876.0,1984.0,146.65,-18.95,1.0,1.0
+AdelaideTarn.Jara.2015,LakeSediment,temperature,-15.3,15666.5,172.5333,-40.9333,389.70000000000005,48.09999999999991
+AjaxBog.Wilmshurst.2007,Peat,OriginalSampleID,784.667,14212.0,169.28,-46.42,655.8000000000002,172.89999999999964
+AjaxBog.Wilmshurst.2007,Peat,temperature,784.667,14212.0,169.28,-46.42,655.8000000000002,172.89999999999964
+AjaxBog.Wilmshurst.2007,Peat,ReliabIeYN1,784.667,14212.0,169.28,-46.42,,
+Asi-INDO005.D'Arrigo.2010,tree,trsgi,,,122.8,-5.5,1.0,1.0
+Aus-BuckleysChance.Buckley.1997,tree,trsgi,,,145.87,-42.27,1.0,1.0
+Aus-CTPEastTasmania.Allen.2001,tree,trsgi,,,147.75,-41.31,1.0,1.0
+Aus-CTPWestTasmania.Allen.2001,tree,trsgi,,,145.65,-41.67,1.0,1.0
+Aus-DuckholeLake.Saunders.2013,lake sediment,R650_700,-51.32076,809.6464,146.8749,-43.3646,152.2441,0.5626460000000002
+Aus-DuckholeLake.Saunders.2013,lake sediment,R570_630,-51.32076,809.6464,146.8749,-43.3646,152.2441,0.5626460000000002
+Aus-DuckholeLake.Saunders.2013,lake sediment,R660_670,-51.32076,809.6464,146.8749,-43.3646,152.2441,0.5626460000000002
+Aus-DuckholeLake.Saunders.2013,lake sediment,RABD660_670,-51.32076,809.6464,146.8749,-43.3646,152.2441,0.5626460000000002
+Aus-DuckholeLake.Saunders.2013,lake sediment,N,-51.32076,809.6464,146.8749,-43.3646,169.7018,0.5626460000000002
+Aus-DuckholeLake.Saunders.2013,lake sediment,C,-51.32076,809.6464,146.8749,-43.3646,169.7018,0.5626460000000002
+Aus-DuckholeLake.Saunders.2013,lake sediment,C_N,-51.32076,809.6464,146.8749,-43.3646,169.7018,0.5626460000000002
+Aus-DuckholeLake.Saunders.2013,lake sediment,BSi,-51.32076,809.6464,146.8749,-43.3646,169.7018,0.5626460000000002
+Aus-MarxUpperSnowy,LakeSediment,dust,7.095,6493.024,148.299,-36.463,83.90099999999984,3.6629999999999994
+Aus-MorosMurrayCanyon,MarineSediment,d18O,0.0,32512.649,136.55,-36.733,323.20500000000175,20.657999999999447
+Aus-MorosMurrayCanyon,MarineSediment,d18O,0.0,32429.639,136.55,-36.733,426.88600000000224,20.657999999999447
+Aus-MorosMurrayCanyon,MarineSediment,d13C,0.0,9972.373,136.55,-36.733,111.3119999999999,20.657999999999447
+Aus-MtRead.Cook.2006,tree,ghostMeasured,,,145.53,-41.83,,
+Aus-MtRead.Cook.2006,tree,temperature,,,145.53,-41.83,1.0,1.0
+Aus-Oroko.Cook.2002,tree,ghostMeasured,,,170.28,-43.23,,
+Aus-Oroko.Cook.2002,tree,temperature,,,170.28,-43.23,1.0,1.0
+Aus-PinkPine.Duncan.2010,tree,trsgi,,,171.0,-43.0,1.0,1.0
+Aus-StewartIsland.D'Arrigo.1996,tree,trsgi,,,167.8,-47.0,1.0,1.0
+Aus-TakapariCedar.Xiong.2000,tree,trsgi,,,175.98,-40.07,1.0,1.0
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,MS,52.182,8663.323,142.989,-38.2135,29.072000000000116,22.492000000000004
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,density,164.839,8663.323,142.989,-38.2135,85.4380000000001,22.590000000000003
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,LOI,-28.95,9455.85,142.989,-38.2135,172.90000000000055,24.699999999999818
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,CaCO3,551.697,11357.605,142.989,-38.2135,618.75,15.393999999999778
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,CaCO3,522.7,11560.857,142.989,-38.2135,165.0,13.957999999999629
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,CaCO3,522.7,3127.865,142.989,-38.2135,54.075000000000045,18.68399999999997
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,MS,540.0,12080.0,142.989,-38.2135,40.0,30.0
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,density,540.0,12050.0,142.989,-38.2135,100.0,30.0
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,AustralocyprisRobusta,0.0,11433.53,142.989,-38.2135,531.739,0.0
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,ReticyprisHerbstii,0.0,11433.53,142.989,-38.2135,531.739,0.0
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,TDS,0.0,11433.53,142.989,-38.2135,531.739,0.0
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,SE,0.0,11433.53,142.989,-38.2135,3986.3299999999995,0.0
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,Sr/Ca,0.0,11433.53,142.989,-38.2135,3986.3299999999995,39.42900000000009
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,DiacyprisCompacta,0.0,11433.53,142.989,-38.2135,531.739,0.0
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,MytilocyprisPraenuncia,0.0,11433.53,142.989,-38.2135,3986.3299999999995,39.42900000000009
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,AustralocyprisRobusta,8199.491,11382.482,142.989,-38.2135,322.8060000000005,51.047999999998865
+Aus-WilkinsKeilambeteGnotuk,LakeSediment,ReticyprisSp,8199.491,11382.482,142.989,-38.2135,322.8060000000005,51.047999999998865
+BJ8-03-13GGC.Linsley.2010,marine sediment,d18o,123.06,10575.0,115.2,-7.4,83.0,17.0
+BJ8-03-13GGC.Linsley.2010,marine sediment,d18ow,123.06,10575.0,115.2,-7.4,,
+BJ8-03-13GGC.Linsley.2010,marine sediment,mg/ca,123.06,10575.0,115.2,-7.4,97.71000000000004,0.0
+BJ8-03-13GGC.Linsley.2010,marine sediment,sst,123.06,10575.0,115.2,-7.4,97.71000000000004,0.0
+BJ8-03-13GGC.Linsley.2010,marine sediment,rep diff.,123.06,10575.0,115.2,-7.4,4451.389999999999,42.13999999999987
+BJ8-03-13GGC.Linsley.2010,marine sediment,sst  relative,123.06,10575.0,115.2,-7.4,97.71000000000004,0.0
+ClarksJunction.Wilmshurst.2007,Peat,OriginalSampleID,944.727,16800.0,170.12,-45.72,1346.1000000000004,80.70000000000073
+ClarksJunction.Wilmshurst.2007,Peat,temperature,944.727,16800.0,170.12,-45.72,1346.1000000000004,80.70000000000073
+ClarksJunction.Wilmshurst.2007,Peat,ReliabIeYN1,944.727,16800.0,170.12,-45.72,,
+CO00KUNI,Coral,d18O,,,113.965,-21.905,0.0,0.7200000000000273
+CO00KUNI,Coral,d18O,,,113.965,-21.905,-0.15999999999985448,0.17000000000007276
+CO07CAFR,Coral,d18O,,,148.43,-17.73,-5.0,5.0
+CO07CAFR,Coral,Sr/Ca,,,148.43,-17.73,-5.0,5.0
+CO13HENG,Coral,d18O,,,152.8115,-10.6907,0.1999999999998181,0.07142799999996896
+CO13HENG,Coral,d18O,,,152.8115,-10.6907,0.9473680000000968,7.272727000000032
+CO13HENG,Coral,d18O,,,152.8115,-10.6907,-0.05263100000001941,0.16666699999996126
+CO14CATI,Coral,d18O,,,123.5167,-10.2,0.09000000000014552,0.07999999999992724
+CO14CATI,Coral,d18O,,,123.5167,-10.2,0.09000000000014552,0.07999999999992724
+CO99DRGB,Coral,d18O,,,153.0,-22.1,4.0,0.0
+CO99KUHO,Coral,d18O,,,113.7683,-28.4617,0.0,1.0
+CO99KUHO,Coral,d18O,,,113.7683,-28.4617,-0.15999999999985448,0.17000000000007276
+EagleTarn.Rees.2010,LakeSediment,temperature,29.809,15139.173,146.5914,-42.6799,1343.5699999999997,11.54800000000023
+ERDC_092BX.Palmer.2003,MarineSediment,mgca_sacculifer,400.0,23200.0,156.998,-2.225,3200.0,500.0
+ERDC_092BX.Palmer.2003,MarineSediment,d18o_sacculifer,400.0,23200.0,156.998,-2.225,2200.0,400.0
+ERDC_092BX.Palmer.2003,MarineSediment,temperature,400.0,23200.0,156.998,-2.225,3200.0,500.0
+ERDC_092BX.Palmer.2003,MarineSediment,temperature,400.0,23200.0,156.998,-2.225,2200.0,400.0
+FR01_97_12,marine sediment,planktonic.d13C,4.780080078125,32.7094232478142,154.0278,-23.6694,1.7328148269653303,0.3027592258452998
+FR01_97_12,marine sediment,planktonic.d18O,4.780080078125,32.7094232478142,154.0278,-23.6694,1.7328148269653303,0.3027592258452998
+FR01_97_12,marine sediment,planktonic.d13C,4.780080078125,32.7094232478142,154.0278,-23.6694,1.7328148269653303,0.25436560726160096
+FR01_97_12,marine sediment,planktonic.d18O,4.780080078125,32.7094232478142,154.0278,-23.6694,1.7328148269653303,0.25436560726160096
+FR01_97_12,marine sediment,benthic.d13C,4.780080078125,32.7094232478142,154.0278,-23.6694,2.096850807190002,0.5452041302919994
+FR01_97_12,marine sediment,benthic.d18O,4.780080078125,32.7094232478142,154.0278,-23.6694,2.096850807190002,0.5452041302919994
+FR01_97_12,marine sediment,planktonic.d13C,4.780080078125,32.7094232478142,154.0278,-23.6694,5.0456705126762795,0.6690800814629014
+FR01_97_12,marine sediment,planktonic.d18O,4.780080078125,32.7094232478142,154.0278,-23.6694,5.0456705126762795,0.6690800814629014
+FR01_97_12,marine sediment,planktonic.d13C,4.780080078125,32.7094232478142,154.0278,-23.6694,1.8748737268447613,0.25436560726160096
+FR01_97_12,marine sediment,planktonic.d18O,4.780080078125,32.7094232478142,154.0278,-23.6694,1.8748737268447613,0.25436560726160096
+FR01_97_12,marine sediment,CaCO3,4.780080078125,32.7094232478142,154.0278,-23.6694,1.7328148269653303,0.5185942897796032
+FR01_97_12,marine sediment,DBD,4.780080078125,32.7094232478142,154.0278,-23.6694,1.7328148269653303,0.5185942897796032
+GeoB10069-3.Gibbons.2014,marine sediment,mg/ca,0.4701,35.2396,120.917,-9.59483,0.4214999999999982,0.026699999999999946
+GeoB10069-3.Gibbons.2014,marine sediment,sst - mg/ca,0.4701,35.2396,120.917,-9.59483,0.4214999999999982,0.026699999999999946
+GeoB10069-3.Gibbons.2014,marine sediment,d18o,0.4701,35.2396,120.917,-9.59483,0.4214999999999982,0.026699999999999946
+GeoB10069-3.Gibbons.2014,marine sediment,d18ow,0.4701,35.2396,120.917,-9.59483,0.4214999999999982,0.026699999999999946
+GeoB10069-3.Gibbons.2014,marine sediment,d18owcorr,0.4701,35.2396,120.917,-9.59483,0.4214999999999982,0.026699999999999946
+GIK18471_1,marine sediment,benthic.MgCa,4.2725881652832,130.61020257622,129.983,-9.3665,6.603659408264199,0.30914322675820216
+GIK18471_1,marine sediment,benthic.d18O,4.2725881652832,130.61020257622,129.983,-9.3665,5.321077937495701,0.3643496874285006
+GIK18471_1,marine sediment,benthic.d18O,4.2725881652832,130.61020257622,129.983,-9.3665,3.4382469573974994,0.30068277430289925
+GIK18471_1,marine sediment,deep.temp,4.2725881652832,130.61020257622,129.983,-9.3665,6.603659408264199,0.30914322675820216
+GIK18471_1,marine sediment,planktonic.MgCa,4.2725881652832,130.61020257622,129.983,-9.3665,3.4382469573974994,0.5912654710577954
+GIK18471_1,marine sediment,planktonic.d18O,4.2725881652832,130.61020257622,129.983,-9.3665,3.4382469573974994,0.5912654710577954
+GIK18471_1,marine sediment,surface.temp,4.2725881652832,130.61020257622,129.983,-9.3665,3.4382469573974994,0.5912654710577954
+H214,marine sediment,surface.temp,4.06758283298239,18.5732599070124,177.4392,-36.9225,2.10382162950551,0.12243774775870264
+H214,marine sediment,surface.temp.error,4.06758283298239,18.5732599070124,177.4392,-36.9225,2.10382162950551,0.12243774775870264
+H214,marine sediment,surface.temp,4.06758283298239,18.5732599070124,177.4392,-36.9225,2.10382162950551,0.12243774775870264
+H214,marine sediment,surface.temp.error,4.06758283298239,18.5732599070124,177.4392,-36.9225,2.10382162950551,0.12243774775870264
+H214,marine sediment,benthic.d13C,4.06758283298239,18.5732599070124,177.4392,-36.9225,2.10382162950551,0.06170560754410026
+H214,marine sediment,benthic.d18O,4.06758283298239,18.5732599070124,177.4392,-36.9225,2.10382162950551,0.06170560754410026
+H214,marine sediment,planktonic.d13C,4.06758283298239,18.5732599070124,177.4392,-36.9225,3.2671318873139104,0.08488252958069964
+H214,marine sediment,planktonic.d13C,4.06758283298239,18.5732599070124,177.4392,-36.9225,1.2741046729172805,0.08825094909350106
+H214,marine sediment,planktonic.d18O,4.06758283298239,18.5732599070124,177.4392,-36.9225,3.2671318873139104,0.08488252958069964
+H214,marine sediment,planktonic.d18O,4.06758283298239,18.5732599070124,177.4392,-36.9225,1.2741046729172805,0.08825094909350106
+H214,marine sediment,note,4.06758283298239,18.5732599070124,177.4392,-36.9225,,
+HomesteadScarp.McGlone.2010,Peat,Pollen_T,-39.0,12246.9,169.138,-52.5518,464.329999999999,6.0
+HomesteadScarp.McGlone.2010,Peat,temperature,-39.0,12246.9,169.138,-52.5518,464.329999999999,6.0
+HomesteadScarp.McGlone.2010,Peat,SHCal04Age,-39.0,12246.9,169.138,-52.5518,464.329999999999,6.0
+LakeSurprise.Falster.2018,lake sediment,d13c,8479.284,29710.0,141.92,-38.06,441.7280000000028,7.433999999999287
+LakeSurprise.Falster.2018,lake sediment,c,8479.284,29710.0,141.92,-38.06,441.7280000000028,7.433999999999287
+LakeSurprise.Falster.2018,lake sediment,n,8479.284,29710.0,141.92,-38.06,1019.2079999999987,141.246000000001
+LakeSurprise.Falster.2018,lake sediment,c/n,8479.284,29710.0,141.92,-38.06,1019.2079999999987,141.246000000001
+LakeSurprise.Falster.2018,lake sediment,si,,,141.92,-38.06,,nan
+LakeSurprise.Falster.2018,lake sediment,ti,,,141.92,-38.06,,nan
+LakeSurprise.Falster.2018,lake sediment,fe,,,141.92,-38.06,,nan
+LakeSurprise.Falster.2018,lake sediment,mn,,,141.92,-38.06,,nan
+LakeSurprise.Falster.2018,lake sediment,ca,,,141.92,-38.06,,nan
+LakeSurprise.Falster.2018,lake sediment,s,,,141.92,-38.06,,nan
+LakeSurprise.Falster.2018,lake sediment,total inorganic,,,141.92,-38.06,,nan
+Longwoods.Wilmshurst.2007,Peat,OriginalSampleID,914.462,16974.3,167.83,-46.23,819.3999999999996,186.4400000000005
+Longwoods.Wilmshurst.2007,Peat,temperature,914.462,16974.3,167.83,-46.23,819.3999999999996,186.4400000000005
+LS10GOBL,LakeSediment,d18O,,,140.01,-37.01,-8.610000000000127,223.26
+LS12GOBA,LakeSediment,d18O,,,115.51,-32.001,-14.304207999999562,344.9986381
+LS12KENO,LakeSediment,d18O,,,141.8,-36.8,-58.40000000000009,460.6400000000001
+Mackenzie.Woltering.2014,LakeSediment,temperature,-48.0,37261.0,153.0533,-25.4475,5509.0,16.0
+MD01_2378,marine sediment,surface.temp,0.995359008789062,127.862975264743,121.788,-13.0825,0.279722659065996,0.10013455656300607
+MD01_2378,marine sediment,surface.temp,0.995359008789062,127.862975264743,121.788,-13.0825,0.5514626176550053,0.10013455656300607
+MD01_2378,marine sediment,planktonic.MgCa,0.995359008789062,127.862975264743,121.788,-13.0825,0.2931044679465984,0.039621635828499535
+MD01_2378,marine sediment,surface.temp,0.995359008789062,127.862975264743,121.788,-13.0825,0.2931044679465984,0.039621635828499535
+MD01_2378,marine sediment,planktonic.MgCa,0.995359008789062,127.862975264743,121.788,-13.0825,0.2931044679465984,0.039621635828499535
+MD01_2378,marine sediment,surface.temp,0.995359008789062,127.862975264743,121.788,-13.0825,0.2931044679465984,0.039621635828499535
+MD01_2378,marine sediment,surface.temp,0.995359008789062,127.862975264743,121.788,-13.0825,0.7081658624741003,0.02768069307090215
+MD01_2378,marine sediment,surface.temp,0.995359008789062,127.862975264743,121.788,-13.0825,0.9091046347872016,0.02768069307090215
+MD01_2378,marine sediment,planktonic.d13C,0.995359008789062,127.862975264743,121.788,-13.0825,2.6817051471333,0.22412801858389741
+MD01_2378,marine sediment,CaCO3,0.995359008789062,127.862975264743,121.788,-13.0825,2.6817051471333,0.22412801858389741
+MD01_2378,marine sediment,TOC,0.995359008789062,127.862975264743,121.788,-13.0825,2.6817051471333,0.22412801858389741
+MD01_2378,marine sediment,benthic.d18O,0.995359008789062,127.862975264743,121.788,-13.0825,2.6817051471333,0.039621635828499535
+MD01_2378,marine sediment,benthic.d13C,0.995359008789062,127.862975264743,121.788,-13.0825,2.6817051471333,0.039621635828499535
+MD01_2378,marine sediment,planktonic.d18O,0.995359008789062,127.862975264743,121.788,-13.0825,2.6817051471333,0.006653084026996936
+MD01_2378,marine sediment,planktonic.d13C,0.995359008789062,127.862975264743,121.788,-13.0825,53.1676339922952,0.039621635828499535
+MD01_2378,marine sediment,planktonic.d18O,0.995359008789062,127.862975264743,121.788,-13.0825,53.1676339922952,0.026025561149197074
+MD01_2378,marine sediment,planktonic.d13C,0.995359008789062,127.862975264743,121.788,-13.0825,53.1676339922952,0.039621635828499535
+MD01_2378,marine sediment,planktonic.MgCa,0.995359008789062,127.862975264743,121.788,-13.0825,92.44174521993429,0.02768069307090215
+MD01_2378,marine sediment,planktonic.MgCa,0.995359008789062,127.862975264743,121.788,-13.0825,92.33009250526331,0.02768069307090215
+MD03_2607-Assemblage.LopesdosSantos.2013,MarineSediment,temperature,1100.0,134800.0,137.4065,-36.9607,1600.0,100.0
+MD03_2607-Assemblage.LopesdosSantos.2013,MarineSediment,temperature,1100.0,134800.0,137.4065,-36.9607,2200.0,100.0
+MD03_2607-Assemblage.LopesdosSantos.2013,MarineSediment,temperature,1100.0,134800.0,137.4065,-36.9607,1600.0,100.0
+MD03_2607-Assemblage.LopesdosSantos.2013,MarineSediment,temperature,1100.0,135000.0,137.4065,-36.9607,4700.0,100.0
+MD03_2607-Assemblage.LopesdosSantos.2013,MarineSediment,planktic.d13C,1100.0,134800.0,137.4065,-36.9607,2500.0,100.0
+MD03_2607-Assemblage.LopesdosSantos.2013,MarineSediment,planktic.d18O,1100.0,134800.0,137.4065,-36.9607,2500.0,100.0
+MD03_2607.LopesdosSantos.2013,MarineSediment,Uk37,1100.0,134800.0,137.4065,-36.9607,1600.0,100.0
+MD03_2607.LopesdosSantos.2013,MarineSediment,TEX86,1100.0,134800.0,137.4065,-36.9607,2200.0,100.0
+MD03_2607.LopesdosSantos.2013,MarineSediment,temperature,1100.0,134800.0,137.4065,-36.9607,1600.0,100.0
+MD03_2607.LopesdosSantos.2013,MarineSediment,temperature,1100.0,134800.0,137.4065,-36.9607,2200.0,100.0
+MD03_2611.Calvo.2007,MarineSediment,d18o_bulloides,684.0,30601.0,136.55,-36.73,1221.0,188.0
+MD03_2611.Calvo.2007,MarineSediment,Uk37,684.0,30601.0,136.55,-36.73,1095.0,107.0
+MD03_2611.Calvo.2007,MarineSediment,temperature,684.0,30601.0,136.55,-36.73,1095.0,107.0
+MD03_2611.Calvo.2007,MarineSediment,temperature,684.0,30601.0,136.55,-36.73,1221.0,188.0
+MD06_2986,marine sediment,benthic.d13C,0.872644027709961,126.824192557573,167.9,-43.4485,1.1507262041019999,0.0634450126977999
+MD06_2986,marine sediment,benthic.d18O,0.872644027709961,126.824192557573,167.9,-43.4485,1.1507262041019999,0.0634450126977999
+MD06_2990,marine sediment,benthic.d13C,70.45294921875,131.759670685768,169.8757,-42.3083,1.7804607925415041,0.7583407478333015
+MD06_2990,marine sediment,benthic.d18O,70.45294921875,131.759670685768,169.8757,-42.3083,1.7804607925415041,0.7583407478333015
+MD79-257.Levi.2007,MarineSediment,temperature,1553.723,15695.489,36.3,-20.4,602.4900000000002,140.27500000000146
+MD79-257.Levi.2007,MarineSediment,temperature,1553.723,15695.489,36.3,-20.4,602.4900000000002,140.27500000000146
+MD79-257.Levi.2007,MarineSediment,temperature,1553.723,15695.489,36.3,-20.4,602.4900000000002,140.27500000000146
+MD88_770,marine sediment,planktonic.d18O,6.34841015625,18.5672615949045,96.4614,-46.0214,2.5410173858793605,0.09287754459190012
+MD88_770,marine sediment,planktonic.d18O,6.34841015625,18.5672615949045,96.4614,-46.0214,2.711664764102119,0.638270499805401
+MD88_770,marine sediment,benthic.d18O,6.34841015625,18.5672615949045,96.4614,-46.0214,2.711664764102119,0.9272147385247997
+MD88_770,marine sediment,benthic.d18O,6.34841015625,18.5672615949045,96.4614,-46.0214,2.711664764102119,0.638270499805401
+MD88_770,marine sediment,benthic.d13C,6.34841015625,18.5672615949045,96.4614,-46.0214,2.711664764102119,0.9272147385247997
+MD88_770,marine sediment,surface.temp,6.34841015625,18.5672615949045,96.4614,-46.0214,0.5848064422607404,0.09287754459190012
+MD97_2120,marine sediment,surface.temp,2.01589001464844,128.175475021544,174.9308,-45.5344,1.5414405207935005,0.021223806306998938
+MD97_2120,marine sediment,UK37,2.01589001464844,128.175475021544,174.9308,-45.5344,1.5414405207935005,0.021223806306998938
+MD97_2120,marine sediment,planktonic.MgCa,2.01589001464844,128.175475021544,174.9308,-45.5344,2.334636717624498,0.11801186136190012
+MD97_2120,marine sediment,surface.temp,2.01589001464844,128.175475021544,174.9308,-45.5344,2.334636717624498,0.11801186136190012
+MD97_2120,marine sediment,planktonic.d18O,2.01589001464844,128.175475021544,174.9308,-45.5344,1.0686335644957978,0.03549174153359935
+MD97_2120,marine sediment,benthic.d18O,2.01589001464844,128.175475021544,174.9308,-45.5344,1.0691245484284053,0.03668981983969921
+MD97_2120,marine sediment,benthic.d13C,2.01589001464844,128.175475021544,174.9308,-45.5344,1.0691245484284053,0.03668981983969921
+MD98-2170.Stott.2004,marine sediment,mg/ca,0.0,14578.9,125.39,-10.59,953.0,96.09999999999997
+MD98-2170.Stott.2004,marine sediment,d180,0.0,14578.9,125.39,-10.59,953.0,96.09999999999997
+MD98-2170.Stott.2004,marine sediment,d180w,0.0,14578.9,125.39,-10.59,953.0,96.09999999999997
+MD98-2170.Stott.2004,marine sediment,sst,0.0,14578.9,125.39,-10.59,953.0,96.09999999999997
+MD982176.Stott.2004,marine sediment,yrbp,139.3,14831.0,133.4,-5.0,182.0,5.700000000000728
+MD982176.Stott.2004,marine sediment,d18og.rub,139.3,14831.0,133.4,-5.0,196.0,5.700000000000728
+MD982176.Stott.2004,marine sediment,d18ow-s,139.3,14831.0,133.4,-5.0,196.0,5.700000000000728
+MD982176.Stott.2004,marine sediment,mg/ca-g.rub,139.3,14831.0,133.4,-5.0,182.0,5.700000000000728
+MD982176.Stott.2004,marine sediment,sst,139.3,14831.0,133.4,-5.0,182.0,5.700000000000728
+MD98_2161.Fan.2018,MarineSediment,d18o_ruber,-6.0,25045.7,117.48,-5.21,257.1000000000022,16.899999999999977
+MD98_2161.Fan.2018,MarineSediment,mgca_ruber,-6.0,25045.7,117.48,-5.21,257.1000000000022,16.899999999999977
+MD98_2161.Fan.2018,MarineSediment,temperature,-6.0,25045.7,117.48,-5.21,257.1000000000022,16.899999999999977
+MD98_2161.Fan.2018,MarineSediment,temperature,-6.0,25045.7,117.48,-5.21,257.1000000000022,16.899999999999977
+Moanatuatua.Jara.2017,Peat,temperature,-91.5,14637.9,175.37,-37.92,184.29999999999995,42.30000000000018
+Moanatuatua.Jara.2017,Peat,eSEP_WMAT,-91.5,14637.9,175.37,-37.92,184.29999999999995,42.30000000000018
+Moanatuatua.Jara.2017,Peat,upper95,-91.5,14637.9,175.37,-37.92,184.29999999999995,42.30000000000018
+Moanatuatua.Jara.2017,Peat,lower95,-91.5,14637.9,175.37,-37.92,184.29999999999995,42.30000000000018
+Moanatuatua.Jara.2017,Peat,PLS_C2_temp,-91.5,14637.9,175.37,-37.92,184.29999999999995,42.30000000000018
+Moanatuatua.Jara.2017,Peat,eSEP_PLS_C2,-91.5,14637.9,175.37,-37.92,184.29999999999995,42.30000000000018
+Moanatuatua.Jara.2017,Peat,upper95,-91.5,14637.9,175.37,-37.92,184.29999999999995,42.30000000000018
+Moanatuatua.Jara.2017,Peat,lower95,-91.5,14637.9,175.37,-37.92,184.29999999999995,42.30000000000018
+MountHoney.McGlone.2010,Peat,Pollen_T,-17.917,12563.0,169.1625,-52.5,298.7999999999993,4.0
+MountHoney.McGlone.2010,Peat,temperature,-17.917,12563.0,169.1625,-52.5,298.7999999999993,4.0
+MountHoney.McGlone.2010,Peat,SHCal04Age,-17.917,12563.0,169.1625,-52.5,298.7999999999993,4.0
+MV0502_4JC,marine sediment,planktonic.d18O,11.8928491821289,133.45636753102,148.1333,-50.3333,5.293584689107007,3.4502892824369997
+MV0502_4JC,marine sediment,planktonic.d13C,11.8928491821289,133.45636753102,148.1333,-50.3333,5.293584689107007,3.4502892824369997
+MV0502_4JC,marine sediment,benthic.d18O,11.8928491821289,133.45636753102,148.1333,-50.3333,5.293584689107007,3.4502892824369997
+MV0502_4JC,marine sediment,benthic.d13C,11.8928491821289,133.45636753102,148.1333,-50.3333,5.293584689107007,3.4502892824369997
+MV0502_4JC,marine sediment,benthic.d18O,11.8928491821289,133.45636753102,148.1333,-50.3333,,nan
+MV0502_4JC,marine sediment,benthic.d13C,11.8928491821289,133.45636753102,148.1333,-50.3333,,nan
+MV0502_4JC,marine sediment,benthic.d18O,11.8928491821289,133.45636753102,148.1333,-50.3333,,nan
+MV0502_4JC,marine sediment,benthic.d13C,11.8928491821289,133.45636753102,148.1333,-50.3333,,nan
+MV0502_4JC,marine sediment,IRD,11.8928491821289,133.45636753102,148.1333,-50.3333,24.541463961699804,14.791908985138
+Ocn-AbrahamReef.Druffel.1999,coral,d18O,,,153.0,-22.1,0.0,4.0
+Ocn-AbrahamReef.Druffel.1999,coral,d13C,,,153.0,-22.1,0.0,4.0
+Ocn-AmedeeIsland.DeLong.2012,coral,Sr_Ca,,,166.4667,-22.475,-0.08333333332984694,0.08333333334007875
+Ocn-BunakenIsland.Charles.2003,coral,d18O,,,124.833,-1.5,-0.07999999999992724,0.09000000000014552
+Ocn-BundegireefNingaloo.Cooper.2012,coral,calcification1,,,114.1833,-21.8333,1.0,1.0
+Ocn-BundegireefNingaloo.Cooper.2012,coral,calcification2,,,114.1833,-21.8333,1.0,1.0
+Ocn-BundegireefNingaloo.Cooper.2012,coral,calcification3,,,114.1833,-21.8333,1.0,1.0
+Ocn-BundegireefNingaloo.Cooper.2012,coral,composite,,,114.1833,-21.8333,1.0,1.0
+Ocn-BundegireefNingaloo.Cooper.2012,coral,calcification4,,,114.1833,-21.8333,1.0,1.0
+Ocn-ClerkeReefRowleyShoals.Cooper.2012,coral,calcification1,,,119.3667,-17.2667,1.0,1.0
+Ocn-ClerkeReefRowleyShoals.Cooper.2012,coral,calcification2,,,119.3667,-17.2667,1.0,1.0
+Ocn-ClerkeReefRowleyShoals.Cooper.2012,coral,calcification3,,,119.3667,-17.2667,1.0,1.0
+Ocn-ClerkeReefRowleyShoals.Cooper.2012,coral,composite,,,119.3667,-17.2667,1.0,1.0
+Ocn-ClerkeReefRowleyShoals.Cooper.2012,coral,calcification4,,,119.3667,-17.2667,1.0,1.0
+Ocn-ClerkeReefRowleyShoals.Cooper.2012,coral,calcification5,,,119.3667,-17.2667,1.0,1.0
+Ocn-CoralBayNingaloo.Cooper.2012,coral,calcification1,,,113.8167,-23.0333,1.0,1.0
+Ocn-CoralBayNingaloo.Cooper.2012,coral,calcification2,,,113.8167,-23.0333,1.0,1.0
+Ocn-CoralBayNingaloo.Cooper.2012,coral,calcification3,,,113.8167,-23.0333,1.0,1.0
+Ocn-CoralBayNingaloo.Cooper.2012,coral,composite,,,113.8167,-23.0333,1.0,1.0
+Ocn-CoralBayNingaloo.Cooper.2012,coral,calcification4,,,113.8167,-23.0333,1.0,1.0
+Ocn-CoralSea.Calvo.2007,coral,d18O,,,148.43,-17.73,-5.0,5.0
+Ocn-CoralSea.Calvo.2007,coral,Sr_Ca,,,148.43,-17.73,-5.0,5.0
+Ocn-GBR.Wei.2009,coral,d18O,,,146.0333,-16.7167,5.0,1.0
+Ocn-GBR.Wei.2009,coral,Sr_Ca,,,146.0333,-16.7167,5.0,1.0
+Ocn-GBR.Wei.2009,coral,d13C,,,146.0333,-16.7167,5.0,1.0
+Ocn-GreatBarrierReef.Hendy.2002,coral,temperature,,,146.595,-18.315,-5.0,10.0
+Ocn-GreatBarrierReef.Hendy.2002,coral,Sr_Ca,,,146.595,-18.315,-5.0,10.0
+Ocn-GreatBarrierReef.Hendy.2002,coral,temperature,,,146.595,-18.315,-5.0,10.0
+Ocn-HoutmanAbrolhos.Kuhnert.1999,coral,d18O,,,113.77,-28.47,0.0,1.0
+Ocn-HoutmanAbrolhos.Kuhnert.1999,coral,d13C,,,113.77,-28.47,0.0,1.0
+Ocn-HoutmanAbrolhosHAB05B.Zinke.2014,coral,Sr_Ca,,,113.772,-28.4609,3.0,1.0
+Ocn-HoutmanAbrolhosHAB10A.Zinke.2014,coral,d18O,,,113.749,-28.4589,3.0,1.0
+Ocn-HoutmanAbrolhosHAB10A.Zinke.2014,coral,Sr_Ca,,,113.749,-28.4589,3.0,1.0
+Ocn-HoutmanAbrolhosIslands.Cooper.2012,coral,calcification1,,,113.7667,-28.4667,1.0,1.0
+Ocn-HoutmanAbrolhosIslands.Cooper.2012,coral,calcification2,,,113.7667,-28.4667,1.0,1.0
+Ocn-HoutmanAbrolhosIslands.Cooper.2012,coral,calcification3,,,113.7667,-28.4667,1.0,1.0
+Ocn-HoutmanAbrolhosIslands.Cooper.2012,coral,composite,,,113.7667,-28.4667,1.0,1.0
+Ocn-ImperieuseRowleyShoals.Cooper.2012,coral,calcification1,,,118.9667,-17.5167,1.0,1.0
+Ocn-ImperieuseRowleyShoals.Cooper.2012,coral,calcification2,,,118.9667,-17.5167,1.0,1.0
+Ocn-ImperieuseRowleyShoals.Cooper.2012,coral,calcification3,,,118.9667,-17.5167,1.0,1.0
+Ocn-ImperieuseRowleyShoals.Cooper.2012,coral,composite,,,118.9667,-17.5167,1.0,1.0
+Ocn-ImperieuseRowleyShoals.Cooper.2012,coral,calcification4,,,118.9667,-17.5167,1.0,1.0
+Ocn-Lombok.Charles.2003,coral,d18O,,,115.5757,-8.2473,-0.07999999999992724,0.09000000000014552
+Ocn-Maiana.Urban.2000,coral,d18O,,,173.0,1.0,-0.15999999999985448,0.17000000000007276
+Ocn-MakassarStrait.Linsley.2010,marine sediment,temperature,,,115.2,-7.4,-23.059999999999945,35.11000000000013
+Ocn-MakassarStrait.Linsley.2010,marine sediment,temperature,,,115.2,-7.4,-23.059999999999945,35.11000000000013
+Ocn-MakassarStrait.Oppo.2009,marine sediment,temperature,,,119.2,-3.53,-0.01999999999998181,76.99000000000004
+Ocn-MakassarStrait.Oppo.2009,marine sediment,temperature,,,119.2,-3.53,-10.0,10.0
+Ocn-MaloChannelEspirituSantoIsland.Kilbourne.2004,coral,d18O,,,167.2,-15.7,-0.009999999999990905,0.25
+Ocn-MaloChannelEspirituSantoIsland.Kilbourne.2004,coral,Sr_Ca,,,167.2,-15.7,-0.009999999999990905,0.25
+Ocn-MaloChannelEspirituSantoIsland.Kilbourne.2004,coral,d13C,,,167.2,-15.7,-0.009999999999990905,0.25
+Ocn-MD98-2160.Newton.2010,marine sediment,temperature,,,117.4867,-5.2012,-6.0,46.0
+Ocn-MD98-2177.Newton.2010,marine sediment,temperature,,,119.078,1.4033,-10.899999999999864,31.666666700000007
+Ocn-Nauru.Guilderson.1999,coral,d18O,,,166.9283,-0.53296,-0.03999999999996362,0.5899999999999181
+Ocn-Nauru.Guilderson.1999,coral,d13C,,,166.9283,-0.53296,-0.03999999999996362,0.5899999999999181
+Ocn-Ningaloo.Kuhnert.2000,coral,d18O,,,113.965,-21.905,0.0,0.7200000000000273
+Ocn-Ningaloo.Kuhnert.2000,coral,d13C,,,113.965,-21.905,0.0,0.7200000000000273
+Ocn-Philippines.Stott.2007,marine sediment,temperature,,,125.82,6.3,-3.0,101.69999999999982
+Ocn-SavusavuBay1F.Linsley.2006,coral,d18O,,,179.2333,-16.8167,-1.0,1.0
+Ocn-SavusavuBay1F.Linsley.2006,coral,Sr_Ca,,,179.2333,-16.8167,-1.0,1.0
+Ocn-SavusavuBayAB.Linsley.2006,coral,d18O,,,179.2333,-16.8167,-1.0,1.0
+Ocn-SavusavuBayFiji.Bagnato.2005,coral,d18O,,,179.23,-16.82,-1.0,1.0
+Ocn-TantabiddiReefNingaloo.Cooper.2012,coral,calcification1,,,113.9667,-21.9,1.0,1.0
+Ocn-TantabiddiReefNingaloo.Cooper.2012,coral,calcification2,,,113.9667,-21.9,1.0,1.0
+Ocn-TantabiddiReefNingaloo.Cooper.2012,coral,calcification3,,,113.9667,-21.9,1.0,1.0
+Ocn-TantabiddiReefNingaloo.Cooper.2012,coral,composite,,,113.9667,-21.9,1.0,1.0
+Ocn-TantabiddiReefNingaloo.Cooper.2012,coral,calcification4,,,113.9667,-21.9,1.0,1.0
+Ocn-TantabiddiReefNingaloo.Cooper.2012,coral,calcification5,,,113.9667,-21.9,1.0,1.0
+Ocn-TantabiddiReefNingaloo.Cooper.2012,coral,calcification6,,,113.9667,-21.9,1.0,1.0
+Ocn-TantabiddiReefNingaloo.Cooper.2012,coral,calcification7,,,113.9667,-21.9,1.0,1.0
+Ocn-Tarawa.Cole.1990,coral,d18O,,,172.0,1.0,-0.08300000000008367,0.08399999999983265
+Ocn-Vanuatu.Gorman.2012,coral,d18O,,,166.04,-15.94,-0.08333300000003874,0.08333399999992253
+Ocn-Vanuatu.Gorman.2012,coral,d13C,,,166.04,-15.94,-0.08333300000003874,0.08333399999992253
+Ocn-Vanuatu.Quinn.1996,coral,d18O,,,166.99,-15.0,-1.0,1.0
+PlatypusTarn.Rees.2010,LakeSediment,temperature,31.369,15862.851,146.5868,-42.6734,2837.0779999999995,50.134000000000015
+PupukeChironomid.VandenBos.2018,LakeSediment,OriginalSampleID,-12.0,14093.0,174.7662,-36.7803,,
+PupukeChironomid.VandenBos.2018,LakeSediment,temperature,-12.0,14093.0,174.7662,-36.7803,489.0,11.0
+PupukeChironomid.VandenBos.2018,LakeSediment,nonReliabletemperature,-12.0,14093.0,174.7662,-36.7803,179.0,76.0
+PupukeChironomid.VandenBos.2018,LakeSediment,CommentRegardingReliability,-12.0,14093.0,174.7662,-36.7803,,
+PupukePollen.VandenBos.2018,LakeSediment,OriginalSampleID,1001.0,16138.0,174.77,-36.78,,
+PupukePollen.VandenBos.2018,LakeSediment,temperature,1001.0,16138.0,174.77,-36.78,794.0,13.0
+PupukePollen.VandenBos.2018,LakeSediment,temperature,1001.0,16138.0,174.77,-36.78,794.0,13.0
+RS147_GC07,marine sediment,CaCO3,0.702574493408203,33.1320101115185,146.2833,-45.15,6.368088912870601,0.24726963663099966
+RS147_GC07,marine sediment,planktonic.d18O,0.702574493408203,33.1320101115185,146.2833,-45.15,2.0788811019296,0.04127964515270044
+RS147_GC07,marine sediment,benthic.d18O,0.702574493408203,33.1320101115185,146.2833,-45.15,4.0503056958655,0.04509760056370027
+RS147_GC07,marine sediment,UK37,0.702574493408203,33.1320101115185,146.2833,-45.15,6.368088912870601,0.24726963663099966
+RS147_GC07,marine sediment,surface.temp,0.702574493408203,33.1320101115185,146.2833,-45.15,6.368088912870601,0.24726963663099966
+RS147_GC07,marine sediment,surface.temp,0.702574493408203,33.1320101115185,146.2833,-45.15,4.289207810941001,0.06522217029069921
+SO136_003GC,marine sediment,benthic.d13C,3.75771491241455,64.3405092882269,169.878,-42.2957,1.7278330781599962,0.2129906480451993
+SO136_003GC,marine sediment,benthic.d18O,3.75771491241455,64.3405092882269,169.878,-42.2957,1.7278330781599962,0.2129906480451993
+SO213_2_59_2,marine sediment,benthic.d18O,11.5707998046875,127.231890686035,-116.8794,-45.8289,2.2960206298828005,0.5530898132324005
+SO213_2_59_2,marine sediment,benthic.d13C,11.5707998046875,127.231890686035,-116.8794,-45.8289,2.2960206298828005,0.5530898132324005
+SO213_2_59_2,marine sediment,planktonic.MgCa,11.5707998046875,127.231890686035,-116.8794,-45.8289,2.237564422607406,0.0
+SO213_2_59_2,marine sediment,planktonic.d18O,11.5707998046875,127.231890686035,-116.8794,-45.8289,2.237564422607406,0.0
+SO213_2_59_2,marine sediment,planktonic.MgCa,11.5707998046875,127.231890686035,-116.8794,-45.8289,2.237564422607406,0.0
+SO213_2_59_2,marine sediment,planktonic.d18O,11.5707998046875,127.231890686035,-116.8794,-45.8289,2.237564422607406,0.0
+SO213_2_59_2,marine sediment,planktonic.MgCa,11.5707998046875,127.231890686035,-116.8794,-45.8289,4.032632125854505,0.0
+SO213_2_59_2,marine sediment,planktonic.d18O,11.5707998046875,127.231890686035,-116.8794,-45.8289,4.032632125854505,0.0
+SO213_2_59_2,marine sediment,surface.temp,11.5707998046875,127.231890686035,-116.8794,-45.8289,2.237564422607406,0.0
+SO213_2_59_2,marine sediment,surface.temp,11.5707998046875,127.231890686035,-116.8794,-45.8289,2.237564422607406,0.0
+SO213_2_59_2,marine sediment,surface.temp,11.5707998046875,127.231890686035,-116.8794,-45.8289,4.032632125854505,0.0
+SO213_2_82_1,marine sediment,benthic.d13C,6.8132099609375,76.6831129729229,176.602,-45.7775,1.9620294531117004,0.20493120740806958
+SO213_2_82_1,marine sediment,benthic.d18O,6.8132099609375,76.6831129729229,176.602,-45.7775,2.8491771628338007,0.20493120740806958
+SO213_2_84_1,marine sediment,benthic.d13C,7.39,57.78,174.582,-45.1251,2.620000000000001,0.17999999999999972
+SO213_2_84_1,marine sediment,benthic.d18O,7.39,57.78,174.582,-45.1251,2.620000000000001,0.17999999999999972
+SO213_2_84_1,marine sediment,TOC,7.39,57.78,174.582,-45.1251,,nan
+SO213_2_84_1,marine sediment,DBD,7.39,57.78,174.582,-45.1251,,nan
+SouthIsland.Williams.2005,Speleothem,d13C,508.015,29876.0,172.0,-42.0,1425.0,0.0
+SouthIsland.Williams.2005,Speleothem,d18O,508.015,29876.0,172.0,-42.0,1425.0,0.0
+SouthIsland.Williams.2005,Speleothem,d180_corrc,508.015,29876.0,172.0,-42.0,1425.0,0.0
