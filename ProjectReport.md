@@ -8,7 +8,7 @@ Next, the user can opt to upload a larger dataset and run the code for creating 
 
 The temporal graph displays the temporal extent of each LiPD file, sorted by latitude and colour cocded based on archive type. The user is able to modify the age ranges they wish to be displayed in this graph. 
 
-The spatial map displays the locations of each site referenced in the LiPD dataset, colour coded by archive type. The The user is able to modify the map extent they wish to have displayed. 
+The spatial map displays the locations of each site referenced in the LiPD dataset, colour coded by archive type. The The is able to modify the map extent they wish to have displayed. 
 
 Finally, the user can run an example for filtering the dataset, and create time series plots based on the filtered dataset. 
 
@@ -35,10 +35,14 @@ The following dependencies are used, loaded in dependencies.py:
 
 
 ### Describe testing	
-There were ... tests written. These are available in RunTests.py
-- test 1
-- test 2
-- test 3 
+
+There were 5 tests written. These are available in test_functions.py. Unfortunately, they do not cover all of the functionalities in the package and are quite simple - I was facing lots of problems with running pytest and I ended up running out of time when writing the functions.
+Nevertheless, the testing functions written include:
+- test_if_data_is dictionary(): - Testing whether the data we have loaded is a dictionary. This is importart as it will tell us if any LiPD files are corrupt.
+- test_check_for_specific_file(): This will test whether a specific file has been loaded in the dataset - useful for the user if they are working with a large dataset and want to investigate a specific file
+- test_extracted_time_series(): this will test whether the data series output from the plot has the correct number - this test is only specific to the example code I have provided.
+- test_make_plots_axis - tests whether there are valid variables for loading in the plot axes.
+- test_make_table - tests the length of the table to see whether the data loaded properly - this test is only specific to the example code I have provided.
 
 
 ### Limitations
@@ -50,9 +54,14 @@ Secondly, although the `LiPD` packages aims for standardization of paleoclimate 
 I also faced some more specific problems when writing the code: 
 - It would have been ideal to be able to drop duplicate time series based on DOI (kernel 8 of GraphMaker.ipynb) but had to use the co-ordinates instead - still not sure why it wasn't working. 
 - There is an existing function from the `LiPD` package that allows you to convert LiPDs into CSV files but was not working on my platform - it would have been great to be able to use it or modify it to get the table produced in my code, instead of having to do it manually.
+- Testing is not exhaustive - I simply ran out of time and my tests are very simple as a result. 
 
 
-### Future Improvments	
-Having a third notebook that goes through advanced data analysis methods, such as principal component analysis would have been great. Unfortunately, I was not able to follow through with my original plan so I had to remove this part from my project.
+### Future Improvements	
+- Having a third notebook that goes through advanced data analysis methods, such as principal component analysis would have been great. Unfortunately, I was not able to follow through with my original plan so I had to remove this part from my project.
+- Going through some of the functionalities available in the analysis package `pyleoclim` would have also been helpful, but the documentation for this was updated in the last few days, so it would have made my project reductant. 
+- Allowing the user to choose more variables (e.g. the projection type for the map) or modify the table directly on the notebook would have been great, but they can still do so in `my_functions.py`.
+- Writing the main notebook as a tutorial instead of a template would have been nice, but hopefully the code has enough documentation in it that the user can replicate if the want.
+- Improve testing and exception handling - improve their coverage. Also adding tests for the exceptions would have been great - I have only tested them manually.
 
-Going through some of the functionalities available in the analysis package `pyleoclim` would have also been helpful, but the documentation for this was updated in the last few days, so it would have made my project reductant. 
+
