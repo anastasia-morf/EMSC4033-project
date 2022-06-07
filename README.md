@@ -23,8 +23,8 @@ There are notebooks two contained in the repository:
 2. my_functions.py - contains all of the functions needed to run the notebook
 
 #### Tests folder 
-- tests_functions.py - contains all the functions needed to run the tests 
-- src folder - duplicate of above you and can ignore this - simply there for loading 
+1. tests_functions.py - contains all the functions needed to run the tests 
+2. src folder - duplicate of above you and can ignore this - simply there for loading 
 
 #### Resources 
 Contains the `LiPD` files needed to run the code.
